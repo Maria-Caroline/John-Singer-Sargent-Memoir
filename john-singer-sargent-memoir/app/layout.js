@@ -1,10 +1,27 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from '../app/components/header/header.js'
+import { Poppins, Playfair_Display } from "next/font/google";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
+});
+
+const poppins = Poppins({
+  subsets: ["latin"],
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
+  style: ["normal", "italic"],
+  display: "swap",
+  variable: "--font-poppins", // Define uma variável CSS
+});
+
+const playfair = Playfair_Display({
+  subsets: ["latin"],
+  weight: ["400", "500", "600", "700", "800", "900"],
+  style: ["normal", "italic"],
+  display: "swap",
+  variable: "--font-playfair",
 });
 
 const geistMono = Geist_Mono({
@@ -21,7 +38,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en"  className={`${poppins.variable} ${playfair.variable}`}>
       <body>
       <Header/>
       <main className="p-6">{children}</main>

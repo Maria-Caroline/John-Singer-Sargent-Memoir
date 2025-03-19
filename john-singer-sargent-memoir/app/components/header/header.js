@@ -3,15 +3,14 @@ import Link from 'next/link';
 
 function header() {
     return (
-        <div>
-            
-            <div className="max-w bg-stone-900 text-white p-8 flex flex-row justify-end items-end gap-4">
-            <h2 className='justify-start items-start '>John Singer Sargent: A Memoir</h2>
-                <Link href="/">Summary</Link>
-                <Link href="/early-life">Early Life</Link>
-                <Link href="/career">Career</Link>
-                <Link href="/famous-works">Famous Works</Link>
-                <Link href="/later-lifes">Later Life</Link>
+        <div className="max-w max-h-[12vh] bg-brown text-white p-8 flex justify-between items-center">
+            <h2 className='text-2xl font-medium'>John Singer Sargent: A Memoir</h2>
+            <div className="flex gap-10 font-[Playfair] font-thin">
+                <Link className='hover:text-sephia' href="/">Summary</Link>
+                <Link className='hover:text-sephia' href="/early-life">Early Life</Link>
+                <Link className='hover:text-sephia' href="/career">Career</Link>
+                <Link className='hover:text-sephia' href="/famous-works">Famous Works</Link>
+                <Link className='hover:text-sephia' href="/later-lifes">Later Life</Link>
             </div>
         </div>
     )

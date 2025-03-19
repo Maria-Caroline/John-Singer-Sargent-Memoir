@@ -5,12 +5,15 @@
   --foreground: #171717;
 }
 
-@theme inline {
+@theme {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --color-brown: #27130C;
+  --color-sephia: #C5A785;
 }
+
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -22,5 +25,12 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* html {
+  font-family: var(--font-playfair);
+} */
+ 
+h2 {
+  font-family: var(--font-poppins) !important; 
 }

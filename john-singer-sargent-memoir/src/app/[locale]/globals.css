@@ -5,32 +5,28 @@
   --foreground: #171717;
 }
 
-@theme {
+@theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
   --color-brown: #27130C;
   --color-sephia: #C5A785;
+  --color-lightbrown:#582D14;
 }
-
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background:  #ffffff;
+    --background: #0a0a0a;
     --foreground: #ededed;
   }
 }
 
+
 body {
   background: var(--background);
   color: var(--foreground);
+  font-family: "Playfair", serif;
 }
 
-/* html {
-  font-family: var(--font-playfair);
-} */
- 
-h2 {
-  font-family: var(--font-poppins) !important; 
+h1 {
+  font-family:  "Montserrat", sans-serif;
 }

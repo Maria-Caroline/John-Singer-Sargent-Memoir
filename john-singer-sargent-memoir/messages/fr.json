@@ -1,0 +1,28 @@
+{
+    "HomePage": {
+      "quoteOne": "On ne peut jamais faire assez de croquis.",
+      "quoteTwo": "Croquez tout et gardez votre curiosité vive.",
+        "title": "Résumé",
+        "paragraphOne": "John Singer Sargent était un peintre portraitiste, un peintre paysagiste et un aquarelliste. Au cours de sa carrière, il a réalisé environ 900 peintures à l'huile et plus de 2 000 aquarelles, ainsi que de nombreux croquis et dessins au fusain.",
+        "paragraphTwo": "John Singer Sargent est né à Florence, en Italie, fils d'immigrants américains. Il a vécu en Europe pendant une grande partie de sa vie et est devenu l'un des plus grands portraitistes et muralistes de son époque. Grâce à la maîtrise technique et à l'ingéniosité de son œuvre, il a brillamment représenté ses sujets, mettant en valeur leur raffinement aristocratique et leur hauteur.",
+        "paragraphThree":"Découvrez l'élégance intemporelle des œuvres emblématiques de John Singer Sargent, des grands portraits aux aquarelles époustouflantes, et apprenez-en davantage sur la vie de l'artiste qui a redéfini l'art du portrait."
+    
+    },
+
+    "Header":{
+        "summary": "Résumé",
+        "earlyLife": "Jeunesse",
+        "career": "Carrière",
+        "famousWorks": "Œuvres Célèbres",
+        "laterLife": "Dernières Années",
+        "quiz": "Quiz",
+        "english": "English",
+        "french": "Français"
+    },
+
+    "Footer":{
+        "celebrate": "Célébrer les Artistes et les Arts",
+        "description": "Ce projet a été créé dans le but de célébrer et de préserver l'héritage des plus grands artistes de l'histoire.",
+        "discover": "Découvrir d'autres Artistes"
+    }
+}

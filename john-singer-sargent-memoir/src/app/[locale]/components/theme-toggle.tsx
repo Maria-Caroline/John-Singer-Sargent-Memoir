@@ -17,11 +17,11 @@ export default function ThemeToggle() {
 
   return (
     <button
-      className="focus:outline-none"
+      className="fixed bottom-4 right-4 p-1.5 bg-lightbrown rounded-3xl text-white"
       onClick={() => setTheme(isDark() ? "light" : "dark")}
       aria-label="Theme toggle"
     >
-      {isDark() ? <MdWbSunny size={20} /> : <RiMoonClearFill size={20} />}
+      {isDark() ? <MdWbSunny size={30} /> : <RiMoonClearFill size={30} />}
     </button>
   );
 }

@@ -2,12 +2,14 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #27130C;
 }
 
-[data-theme='dark'] {
+
+[data-theme='dark'],
+[data-theme='dark'] body {
+  --foreground: #ffffff;
   --background: #27130C;
-  --foreground: white;
 }
 
 
@@ -18,14 +20,6 @@
   --color-sephia: #C5A785;
   --color-lightbrown:#582D14;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 
 body {
   background: var(--background);

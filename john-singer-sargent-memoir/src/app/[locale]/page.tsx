@@ -1,24 +1,14 @@
 'use client'
 import Image from "next/image";
 import { useTranslations } from 'next-intl';
-import { Link } from '@/i18n/navigation';
 const homeBanner = '/home-banner.png';
 import { useTheme } from 'next-themes'
 
+
+
 export default function HomePage() {
-  const { resolvedTheme } = useTheme()
-  let sign
-  switch (resolvedTheme) {
-    case 'light':
-      sign = '/sargent-sign-light.png'
-      break
-    case 'dark':
-      sign = '/sargent-sign-dark.png'
-      break
-    default:
-      sign = '/sargent-sign-dark.png'
-      break
-  }
+  const { theme } = useTheme()
+  const imgSrc = theme === 'dark' ? '/sargent-sign-dark.png' : '/sargent-sign-light.png';
 
   const t = useTranslations('HomePage');
   return (
@@ -35,22 +25,22 @@ export default function HomePage() {
           </div>
         </section>
       </div>
-      <div className='flex justify-center text-brown'>
+      <div className='flex justify-center'>
         <div className='m-9 flex justify-center max-w-5xl flex-col gap-7'>
-          <h1 className='text-3xl font-semibold  font-[Montserrat] dark:text-white'>{t('title')}</h1>
+          <h1 className='text-3xl font-semibold font-[Montserrat] dark:text-white'>{t('title')}</h1>
           <p className='text-xl text-justify'>
           {t('paragraphOne')}
             <br />
             <br />
             {t('paragraphTwo')}
           </p>
-          <div className='m-15 self-center h-px w-md bg-brown'></div>
+          <div className='m-15 self-center h-px w-md bg-[var(--color-foreground)]'></div>
           <div>
             <p className='text-center text-xl'> {t('paragraphThree')}</p>
           </div>
           <div className='m-15 relative self-center w-3xs'>
             <Image
-              src={sign}
+              src={imgSrc}
               alt="John Singer Sargent's Sign"
               layout="responsive"
               width={300}

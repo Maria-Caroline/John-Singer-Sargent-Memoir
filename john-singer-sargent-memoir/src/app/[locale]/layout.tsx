@@ -5,6 +5,8 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import Header from "./components/header";
 import Footer from "./components/footer";
+import ThemeToggle from './components/theme-toggle';
+import { ThemeProvider } from 'next-themes'
 
 
 export const metadata: Metadata = {
@@ -26,13 +28,16 @@ export default async function LocaleLayout({
   }
 
   return (
-    <html lang={locale}>
+    <html suppressHydrationWarning lang={locale}>
       <body>
         <NextIntlClientProvider>
-          <Header />
-          {children}
-          <Footer />
-          </NextIntlClientProvider>
+          <ThemeProvider>
+            <Header />
+            {children}
+            <ThemeToggle/>
+            <Footer />
+          </ThemeProvider>
+        </NextIntlClientProvider>
       </body>
     </html>
   );

@@ -1,3 +1,4 @@
+
 {
     "HomePage": {
         "quoteOne": "You can't do sketches enough.",
@@ -5,10 +6,9 @@
         "title": "Summary",
         "paragraphOne": "John Singer Sargent was a portrait painter, landscape painter, and watercolorist. Over the course of his career, he created approximately 900 oil paintings and over 2,000 watercolors, as well as numerous sketches and charcoal drawings.",
         "paragraphTwo": "John Singer Sargent was born in Florence, Italy, the son of American immigrants. He lived in Europe for much of his life and became one of the greatest portraitists and muralists of his time. With the technical mastery and ingenuity of his work, he brilliantly portrayed his subjects, emphasizing their aristocratic refinement and haughtiness.",
-        "paragraphThree":"Discover the timeless elegance of John Singer Sargent's iconic works, from grand portraits to breathtaking watercolors, and learn more about the life of the artist who redefined portraiture."
+        "paragraphThree": "Discover the timeless elegance of John Singer Sargent's iconic works, from grand portraits to breathtaking watercolors, and learn more about the life of the artist who redefined portraiture."
     },
-
-    "Header":{
+    "Header": {
         "summary": "Summary",
         "earlyLife": "Early Life",
         "career": "Career",
@@ -18,9 +18,298 @@
         "english": "English",
         "french": "Français"
     },
-       "Footer":{
+    "Footer": {
         "celebrate": "Celebrating Artists and Arts",
         "description": "This project was created with the purpose of celebrating and preserving the legacy of history's greatest artists.",
         "discover": "Uncover Other Artists"
+    },
+    "Works": {
+        "Works": [
+            {
+                "id": 1,
+                "title": "",
+                "date": "How many legs does a spider have?",
+                "dimensions": "How many legs does a spider have?",
+                "location": "How many legs does a spider have?"
+
+
+            }
+        ]
+    },
+    "Quiz": {
+        "description":"",
+        "questions": [
+            {
+                "id": 1,
+                "question": "Where was John Singer Sargent born?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "France",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "B",
+                        "text": "United States",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "C",
+                        "text": "England",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "D",
+                        "text": "Italy",
+                        "isCorrect": true
+                    }
+                ]
+
+            },
+            {
+                "id": 2,
+                "question": "What was Sargent's main painting technique?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Watercolor",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "B",
+                        "text": "Oil on canvas",
+                        "isCorrect": true
+                    },
+                    {
+                        "label": "C",
+                        "text": "Mosaic",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "D",
+                        "text": "Engraving",
+                        "isCorrect": false
+                    }
+                ]
+
+            },
+            {
+                "id": 3,
+                "question": "Where was John Singer Sargent born?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Madame X",
+                        "isCorrect": true
+                    },
+                    {
+                        "label": "B",
+                        "text": "Starry Night",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "C",
+                        "text": "The Kiss",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "D",
+                        "text": "The Last Supper",
+                        "isCorrect": false
+                    }
+                ]
+
+            },
+            {
+                "id": 4,
+                "question": "Sargent was mainly known for painting what type of subject?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Still life",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "B",
+                        "text": "Landscapes",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "C",
+                        "text": "Portraits",
+                        "isCorrect": true
+                    },
+                    {
+                        "label": "D",
+                        "text": "Abstract paintings",
+                        "isCorrect": false
+                    }
+                ]
+
+            }, {
+                "id": 5,
+                "question": "Why was the painting Madame X controversial when it was first exhibited?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "It was too dark",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "B",
+                        "text": "It depicted a woman wearing a dress considered daring for the time",
+                        "isCorrect": true
+                    },
+                    {
+                        "label": "C",
+                        "text": "It showed a distorted landscape",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "D",
+                        "text": "It was poorly received by critics of the time",
+                        "isCorrect": false
+                    }
+                ]
+
+            }
+            , {
+                "id": 6,
+                "question": "Sargent was fluent in several languages. Which of these was NOT part of his repertoire?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "English",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "B",
+                        "text": "French",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "C",
+                        "text": "German",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "D",
+                        "text": "Spanish",
+                        "isCorrect": true
+                    }
+                ]
+
+            },
+            {
+                "id": 7,
+                "question": "Which artist strongly influenced Sargent's style?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Diego Velázquez",
+                        "isCorrect": true
+                    },
+                    {
+                        "label": "B",
+                        "text": "Claude Monet",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "C",
+                        "text": "Leonardo da Vinci",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "D",
+                        "text": "Vincent van Gogh",
+                        "isCorrect": false
+                    }
+                ]
+
+            },
+            {
+                "id": 8,
+                "question": "Sargent moved away from portrait painting later in life to focus on what?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "Sculpture",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "B",
+                        "text": "Music",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "C",
+                        "text": "Writing",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "D",
+                        "text": "Murals and watercolors",
+                        "isCorrect": true
+                    }
+                ]
+
+            },
+            {
+                "id": 9,
+                "question": "What was Sargent's official nationality?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "French",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "B",
+                        "text": "American",
+                        "isCorrect": true
+                    },
+                    {
+                        "label": "C",
+                        "text": "British",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "D",
+                        "text": "Italian",
+                        "isCorrect": false
+                    }
+                ]
+
+            },
+            {
+                "id": 10,
+                "question": "Besides portraits, Sargent also created murals for which American institution?",
+                "options": [
+                    {
+                        "label": "A",
+                        "text": "The U.S. Congress",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "B",
+                        "text": "Louvre Museum",
+                        "isCorrect": false
+                    },
+                    {
+                        "label": "C",
+                        "text": "Boston Public Library",
+                        "isCorrect": true
+                    },
+                    {
+                        "label": "D",
+                        "text": "University of Oxford",
+                        "isCorrect": false
+                    }
+                ]
+
+            }
+        ]
     }
 }
+
+

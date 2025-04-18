@@ -7,6 +7,8 @@ import Header from "./components/header";
 import Footer from "./components/footer";
 import ThemeToggle from './components/theme-toggle';
 import { ThemeProvider } from 'next-themes'
+import Image from 'next/image';
+const homeBanner = '/home-banner.png';
 
 
 export const metadata: Metadata = {
@@ -32,6 +34,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider>
           <ThemeProvider>
             <Header />
+             <Image src={homeBanner} alt="Banner" layout="responsive" width={16} height={9} />
             {children}
             <ThemeToggle/>
             <Footer />

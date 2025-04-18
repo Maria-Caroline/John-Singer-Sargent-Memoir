@@ -1,7 +1,6 @@
 'use client'
 import Image from "next/image";
 import { useTranslations } from 'next-intl';
-const homeBanner = '/home-banner.png';
 import { useTheme } from 'next-themes'
 
 

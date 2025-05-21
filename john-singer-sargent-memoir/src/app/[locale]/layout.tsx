@@ -34,7 +34,7 @@ export default async function LocaleLayout({
         <NextIntlClientProvider>
           <ThemeProvider>
             <Header />
-             <Image src={homeBanner} alt="Banner" layout="responsive" width={16} height={9} />
+             {/* <Image src={homeBanner} alt="Banner" layout="responsive" width={16} height={9} /> */}
             {children}
             <ThemeToggle/>
             <Footer />

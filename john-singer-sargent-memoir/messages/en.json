@@ -1,4 +1,3 @@
-
 {
     "HomePage": {
         "quoteOne": "You can't do sketches enough.",
@@ -7,6 +6,22 @@
         "paragraphOne": "John Singer Sargent was a portrait painter, landscape painter, and watercolorist. Over the course of his career, he created approximately 900 oil paintings and over 2,000 watercolors, as well as numerous sketches and charcoal drawings.",
         "paragraphTwo": "John Singer Sargent was born in Florence, Italy, the son of American immigrants. He lived in Europe for much of his life and became one of the greatest portraitists and muralists of his time. With the technical mastery and ingenuity of his work, he brilliantly portrayed his subjects, emphasizing their aristocratic refinement and haughtiness.",
         "paragraphThree": "Discover the timeless elegance of John Singer Sargent's iconic works, from grand portraits to breathtaking watercolors, and learn more about the life of the artist who redefined portraiture."
+    },
+    "EarlyLife": {
+        "title": "Early Life",
+        "timelineOne": "The Sargent family leave the United States to begin life as expatriates in Europe.",
+        "timelineTwo": "John Singer Sargent is born in Florence, Italy.",
+        "timelineThree": "At age 13, he began formal art training with watercolor lessons under Carl Welsch.",
+        "timelineFour": "At 17, his keen observation and talent are recognized.",
+        "timelineFive": "Sargent passed on his first attempt to gain admission to the École des Beaux-Arts",
+        "paragraphOne": "John Singer Sargent was born in 1856 in Florence, Italy, into a family that cherished art, culture, and a strong sense of heritage. Tracing his lineage back to Epes Sargent—a notable colonial military figure and legal authority—his family background already hinted at a life steeped in history and artistic influence. His father, FitzWilliam Sargent, born in Gloucester, Massachusetts, not only pursued a career in medicine as an ophthalmologist (notably serving at Wills Eye Hospital in Philadelphia from 1844 to 1854) but also possessed a talent for medical illustration. His mother, Mary Newbold Sargent (née Singer), was an accomplished amateur painter whose sensitivity was deepened by early family tragedies, such as the loss of her first child at a very young age.",
+        "paragraphTwo": "In an effort to find solace and new beginnings, the family left the United States and embraced a nomadic lifestyle, eventually settling mainly in Paris while frequently moving through picturesque regions of France, Germany, Italy, and Switzerland. This constant exposure to diverse landscapes and cultures had a profound influence on young John. Although his formal education was intermittent due to the family’s itinerant life, his parents ensured that his learning was enriched by the arts and the natural world.",
+        "paragraphThree": "FitzWilliam introduced John to the basics of learning, yet it was the great outdoors that captured his imagination. His father noted early on that John was “an attentive observer of the natural world,” a quality that would later be evident in his masterful depictions of landscapes and everyday scenes. Meanwhile, his mother believed that immersion in Europe’s rich cultural heritage—its museums, churches, and historical monuments—was essential for his growth. Armed with sketchbooks provided by Mary, John eagerly documented the world around him, replicating images of ships from The Illustrated London News and meticulously sketching the scenic vistas encountered during their travels.",
+        "paragraphFour": "At the age of thirteen, encouraged by his mother’s observations of his remarkable talent—“sketches quite well and has an exceptionally quick and accurate eye”—John began formal training, taking watercolor lessons from Carl Welsch, a German landscape painter. Despite the irregularity of traditional schooling, Sargent’s education was anything but limited; he became a well-read and cultured young man, fluent in English, French, Italian, and German, and developed an enduring appreciation for the works of great masters. His early experiences not only honed his artistic skills but also instilled in him the independent, inquisitive, and determined spirit that would later define his illustrious career as a portraitist.",
+        "paragraphFive": "At seventeen, Sargent was described as 'willful, curious, determined and strong' (after his mother) yet shy, generous, and modest (after his father). He was well-acquainted with many of the great masters from first-hand observation, as he wrote in 1874: 'I have learned in Venice to admire Tintoretto immensely and to consider him perhaps second only to Michelangelo and Titian.'",
+        "paragraphSix":"The early years of Sargent’s life were marked by the convergence of travel, cultural exposure, and artistic exploration. These formative experiences laid a robust foundation that hinted at the promise of a future where art and observation would intersect to create timeless works, even as he eventually embarked on the celebrated path of professional painting.",
+        "paragraphSeven": "An attempt to study at the Academy of Florence failed, as the school was reorganizing at the time. After returning to Paris from Florence, Sargent began his art studies with the young French portraitist Carolus-Duran. Following a meteoric rise, the artist was noted for his bold technique and modern teaching methods; his influence would be pivotal to Sargent during the period from 1874 to 1878.",
+        "paragraphEight": "In 1874, Sargent passed on his first attempt the rigorous exam required to gain admission to the École des Beaux-Arts, the premier art school in France. He took drawing classes, which included anatomy and perspective, and gained a silver prize. He also spent much time in self-study, drawing in museums and painting in a studio he shared with James Carroll Beckwith. He became both a valuable friend and Sargent's primary connection with the American artists abroad. Sargent also took some lessons from Léon Bonnat."
     },
     "Header": {
         "summary": "Summary",
@@ -31,13 +46,11 @@
                 "date": "How many legs does a spider have?",
                 "dimensions": "How many legs does a spider have?",
                 "location": "How many legs does a spider have?"
-
-
             }
         ]
     },
     "Quiz": {
-        "description":"",
+        "description": "",
         "questions": [
             {
                 "id": 1,
@@ -64,7 +77,6 @@
                         "isCorrect": true
                     }
                 ]
-
             },
             {
                 "id": 2,
@@ -91,7 +103,6 @@
                         "isCorrect": false
                     }
                 ]
-
             },
             {
                 "id": 3,
@@ -118,7 +129,6 @@
                         "isCorrect": false
                     }
                 ]
-
             },
             {
                 "id": 4,
@@ -145,8 +155,8 @@
                         "isCorrect": false
                     }
                 ]
-
-            }, {
+            },
+            {
                 "id": 5,
                 "question": "Why was the painting Madame X controversial when it was first exhibited?",
                 "options": [
@@ -171,9 +181,8 @@
                         "isCorrect": false
                     }
                 ]
-
-            }
-            , {
+            },
+            {
                 "id": 6,
                 "question": "Sargent was fluent in several languages. Which of these was NOT part of his repertoire?",
                 "options": [
@@ -198,7 +207,6 @@
                         "isCorrect": true
                     }
                 ]
-
             },
             {
                 "id": 7,
@@ -225,7 +233,6 @@
                         "isCorrect": false
                     }
                 ]
-
             },
             {
                 "id": 8,
@@ -252,7 +259,6 @@
                         "isCorrect": true
                     }
                 ]
-
             },
             {
                 "id": 9,
@@ -279,7 +285,6 @@
                         "isCorrect": false
                     }
                 ]
-
             },
             {
                 "id": 10,
@@ -306,10 +311,7 @@
                         "isCorrect": false
                     }
                 ]
-
             }
         ]
     }
 }
-
-

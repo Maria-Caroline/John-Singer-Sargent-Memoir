@@ -26,7 +26,7 @@ export default function HomePage() {
         </section>
       </div>
       <div className='flex justify-center'>
-        <div className='m-9 flex justify-center max-w-5xl flex-col gap-7'>
+        <div className='m-10 flex justify-center max-w-5xl flex-col gap-7'>
           <h1 className='text-3xl font-semibold font-[Montserrat] dark:text-white'>{t('title')}</h1>
           <p className='text-xl text-justify'>
           {t('paragraphOne')}

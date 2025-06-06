@@ -2,6 +2,7 @@
 import Image from "next/image";
 import { useTranslations } from 'next-intl';
 import { useTheme } from 'next-themes'
+import { parseParagraph } from '../utils/parseParagraph';
 import homeBanner from '../../../public/home-banner.png'
 
 
@@ -28,12 +29,12 @@ export default function HomePage() {
       <div className='flex justify-center'>
         <div className='m-10 flex justify-center max-w-5xl flex-col gap-7'>
           <h1 className='text-3xl font-semibold font-[Montserrat] dark:text-white'>{t('title')}</h1>
-          <p className='text-xl text-justify'>
-          {t('paragraphOne')}
-            <br />
-            <br />
-            {t('paragraphTwo')}
-          </p>
+          <div className='text-xl text-justify'>
+         {parseParagraph(t('paragraphOne'))}
+          <br />
+          <br />
+          {t('paragraphTwo')}
+          </div>
           <div className='m-15 self-center h-px w-md bg-[var(--color-foreground)]'></div>
           <div>
             <p className='text-center text-xl'> {t('paragraphThree')}</p>

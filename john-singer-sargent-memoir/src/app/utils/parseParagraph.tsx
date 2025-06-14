@@ -1,41 +1,39 @@
 import React from 'react';
 import { ModalInfo, ModalInfoProps } from '../[locale]/components/modal-info';
 
-const infoWords: Record<string, ModalInfoProps> = {
+const infoWords: Record<string, Omit<ModalInfoProps, 'description'>> = {
   technique: {
     word: 'technique',
     image: '/modals/technique.png',
-    description: 'The method and skill of Sargent’s brushwork.',
   },
   portrait: {
     word: 'portrait',
     image: '/modals/portrait.png',
-    description: 'A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders.',
   },
   landscape: {
     word: 'landscape',
     image: '/modals/landscape.png',
-    description: 'A painting representing a view of natural scenery such as mountains, valleys, trees, rivers, and forests.',
   },
-   oil: {
+  oil: {
     word: 'oil',
     image: '/modals/master.png',
-    description: 'A highly skilled artist in portraiture.',
   },
-   watercolors: {
+  watercolors: {
     word: 'watercolors',
     image: '/modals/master.png',
-    description: 'A highly skilled artist in portraiture.',
   },
-   charcoal: {
+  charcoal: {
     word: 'charcoal',
     image: '/modals/master.png',
-    description: 'A highly skilled artist in portraiture.',
+  },
+  Impressionist: {
+    word: 'Impressionist',
+    image: '/modals/master.png',
   },
 };
 
-export function parseParagraph(text: string): React.ReactNode[] {
-  const parts = text.split(/(\[.*?\])/g); // divide por [palavra]
+export function parseParagraph(text: string, t: (key: string) => string): React.ReactNode[] {
+  const parts = text.split(/(\[.*?\])/g);
 
   return parts.map((part, i) => {
     const match = part.match(/\[(.*?)\]/);
@@ -43,10 +41,18 @@ export function parseParagraph(text: string): React.ReactNode[] {
       const key = match[1];
       const info = infoWords[key];
       if (info) {
-        return <ModalInfo key={i} {...info} />;
+        return (
+          <ModalInfo
+            key={i}
+            word={info.word}
+            image={info.image}
+            description={t(`modals.${key}.description`)}
+          />
+        );
       }
-      return match[1]; // fallback: só mostra o texto puro
+      return match[1]; // fallback
     }
     return part;
   });
 }
+

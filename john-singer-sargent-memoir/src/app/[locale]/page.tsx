@@ -19,7 +19,7 @@ export default function HomePage() {
           <Image src={homeBanner} alt="Banner" layout="responsive" width={16} height={9} />
           <div className="absolute inset-0 flex flex-col items-center justify-center text-white ">
             <h1 className="text-center text-3xl font-[Montserrat]">"{t('quoteOne')}
-              <br/>
+              <br />
               {t('quoteTwo')}"
             </h1>
             <p className="text-center text-2xl mt-4 ">— John Singer Sargent</p>
@@ -30,10 +30,10 @@ export default function HomePage() {
         <div className='m-10 flex justify-center max-w-5xl flex-col gap-7'>
           <h1 className='text-3xl font-semibold font-[Montserrat] dark:text-white'>{t('title')}</h1>
           <div className='text-xl text-justify'>
-         {parseParagraph(t('paragraphOne'))}
-          <br />
-          <br />
-          {t('paragraphTwo')}
+            {parseParagraph(t('paragraphOne'), t)}
+            <br />
+            <br />
+            {t('paragraphTwo')}
           </div>
           <div className='m-15 self-center h-px w-md bg-[var(--color-foreground)]'></div>
           <div>

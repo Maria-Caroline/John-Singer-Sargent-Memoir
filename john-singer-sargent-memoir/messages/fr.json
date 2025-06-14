@@ -1,15 +1,53 @@
 {
     "HomePage": {
-      "quoteOne": "On ne peut jamais faire assez de croquis.",
-      "quoteTwo": "Croquez tout et gardez votre curiosité vive.",
+        "quoteOne": "On ne peut jamais faire assez de croquis.",
+        "quoteTwo": "Croquez tout et gardez votre curiosité vive.",
         "title": "Résumé",
         "paragraphOne": "John Singer Sargent était un peintre portraitiste, un peintre paysagiste et un aquarelliste. Au cours de sa carrière, il a réalisé environ 900 peintures à l'huile et plus de 2 000 aquarelles, ainsi que de nombreux croquis et dessins au fusain.",
         "paragraphTwo": "John Singer Sargent est né à Florence, en Italie, fils d'immigrants américains. Il a vécu en Europe pendant une grande partie de sa vie et est devenu l'un des plus grands portraitistes et muralistes de son époque. Grâce à la maîtrise technique et à l'ingéniosité de son œuvre, il a brillamment représenté ses sujets, mettant en valeur leur raffinement aristocratique et leur hauteur.",
-        "paragraphThree":"Découvrez l'élégance intemporelle des œuvres emblématiques de John Singer Sargent, des grands portraits aux aquarelles époustouflantes, et apprenez-en davantage sur la vie de l'artiste qui a redéfini l'art du portrait."
-    
+        "paragraphThree": "Découvrez l'élégance intemporelle des œuvres emblématiques de John Singer Sargent, des grands portraits aux aquarelles époustouflantes, et apprenez-en davantage sur la vie de l'artiste qui a redéfini l'art du portrait."
     },
-
-    "Header":{
+    "EarlyLife": {
+        "title": "Jeunesse",
+        "timelineOne": "La famille Sargent quitte les États-Unis pour commencer une vie d’expatriés en Europe.",
+        "timelineTwo": "John Singer Sargent naît à Florence, en Italie.",
+        "timelineThree": "À 13 ans, il commence une formation artistique formelle avec des cours d’aquarelle dispensés par Carl Welsch.",
+        "timelineFour": "À 17 ans, son sens aigu de l’observation et son talent sont reconnus.",
+        "timelineFive": "Sargent réussit du premier coup l’examen d’entrée à l’École des Beaux-Arts.",
+        "paragraphOne": "John Singer Sargent est né en 1856 à Florence, en Italie, dans une famille qui valorisait l’art, la culture et un fort sentiment d’héritage. En retraçant sa lignée jusqu’à Epes Sargent — une figure militaire coloniale notable et autorité juridique — son passé familial annonçait déjà une vie imprégnée d’histoire et d’influences artistiques. Son père, FitzWilliam Sargent, né à Gloucester, Massachusetts, poursuivit une carrière en médecine comme ophtalmologue (notamment à l’hôpital Wills Eye à Philadelphie de 1844 à 1854), tout en possédant un talent pour l’illustration médicale. Sa mère, Mary Newbold Sargent (née Singer), était une peintre amateur accomplie dont la sensibilité fut approfondie par des tragédies familiales précoces, comme la perte de son premier enfant en bas âge.",
+        "paragraphTwo": "Dans un effort pour trouver du réconfort et un nouveau départ, la famille quitta les États-Unis et adopta un mode de vie nomade, s’installant principalement à Paris tout en voyageant fréquemment à travers les régions pittoresques de France, d’Allemagne, d’Italie et de Suisse. Cette exposition constante à des paysages et cultures variés eut une profonde influence sur le jeune John. Bien que son éducation formelle fût intermittente à cause de cette vie itinérante, ses parents s’assurèrent que son apprentissage fût enrichi par l’art et la nature.",
+        "paragraphThree": "FitzWilliam initia John aux bases de l’apprentissage, mais c’est la nature qui captiva son imagination. Son père nota très tôt que John était « un observateur attentif du monde naturel », une qualité qui se reflétera plus tard dans ses représentations magistrales de paysages et de scènes de la vie quotidienne. Sa mère pensait, quant à elle, que l’immersion dans le patrimoine culturel européen — ses musées, ses églises et ses monuments historiques — était essentielle à son développement. Armé de carnets de croquis offerts par Mary, John documentait avec enthousiasme le monde qui l’entourait, reproduisant des images de navires tirées de *The Illustrated London News* et dessinant méticuleusement les paysages rencontrés lors de leurs voyages.",
+        "paragraphFour": "À l’âge de treize ans, encouragé par les observations de sa mère sur son talent remarquable — « il dessine assez bien et a un œil exceptionnellement vif et précis » — John commence une formation formelle en prenant des cours d’aquarelle auprès de Carl Welsch, un peintre paysagiste allemand. Malgré l’irrégularité de son enseignement scolaire traditionnel, l’éducation de Sargent était loin d’être limitée ; il devint un jeune homme cultivé, parlant couramment l’anglais, le français, l’italien et l’allemand, et développa une appréciation durable pour les grands maîtres. Ses premières expériences affinèrent non seulement ses compétences artistiques, mais forgèrent aussi l’esprit indépendant, curieux et déterminé qui caractérisera plus tard sa brillante carrière de portraitiste.",
+        "paragraphFive": "À dix-sept ans, Sargent était décrit comme « volontaire, curieux, déterminé et fort » (comme sa mère), mais aussi timide, généreux et modeste (comme son père). Il connaissait bien de nombreux grands maîtres grâce à l’observation directe, comme il l’écrivit en 1874 : « J’ai appris à Venise à admirer énormément Tintoret et à le considérer peut-être comme le second, juste après Michel-Ange et Titien. »",
+        "paragraphSix": "Les premières années de la vie de Sargent furent marquées par la convergence du voyage, de l’exposition culturelle et de l’exploration artistique. Ces expériences formatrices posèrent les bases solides d’un avenir prometteur, où l’art et l’observation se rejoindraient pour créer des œuvres intemporelles, alors qu’il se lançait dans une carrière de peintre reconnue.",
+        "paragraphSeven": "Une tentative d’étudier à l’Académie de Florence échoua, car l’école était en cours de réorganisation à ce moment-là. De retour à Paris après son séjour à Florence, Sargent commence ses études artistiques auprès du jeune portraitiste français Carolus-Duran. Ce dernier, connu pour sa technique audacieuse et ses méthodes d’enseignement modernes, joua un rôle déterminant pour Sargent entre 1874 et 1878.",
+        "paragraphEight": "En 1874, Sargent réussit dès sa première tentative le difficile examen d’entrée à l’École des Beaux-Arts, la principale école d’art en France. Il suivit des cours de dessin, comprenant l’anatomie et la perspective, et obtint un prix d’argent. Il consacra aussi beaucoup de temps à l’auto-apprentissage, dessinant dans les musées et peignant dans un atelier qu’il partageait avec James Carroll Beckwith. Ce dernier devint à la fois un ami précieux et le principal lien de Sargent avec les artistes américains expatriés. Sargent suivit également quelques cours avec Léon Bonnat.",
+        "fig1": "fig. 1. portrait de Sargent jeune",
+        "fig2": "fig. 2. croquis de Sargent à quinze ans lors d’un voyage en Allemagne en 1871–72"
+    },
+    "Career": {
+        "title": "Carrière",
+        "paragraphOne": "Au début des années 1880, Sargent s’est fait connaître grâce à ses portraits à la peinture à l’huile, exposés au Salon de Paris. Ses sujets étaient souvent des femmes de la haute société, telles que Madame Edouard Pailleron (1880) et Madame Ramón Subercaseaux (1881). Ces tableaux, caractérisés par leurs compositions en pied et leur coup de pinceau assuré, ont été salués par la critique et ont solidifié sa réputation.",
+        "paragraphTwo": "La capacité de Sargent à capturer la personnalité et l’individualité dans ses portraits était sans pareille. *Les Filles d’Edward Darley Boit* (1882) est l’une de ses œuvres les plus marquantes et mémorables, souvent comparée aux *Ménines* de Velázquez. Son *Dame à la rose* (1882), un portrait de Charlotte Burckhardt, fut un autre succès, démontrant son talent à représenter l’élégance et le caractère à la fois.",
+        "paragraphThree": "Malgré ses succès, la carrière de Sargent à Paris prit un tournant inattendu avec la controverse entourant le *Portrait de Madame X* (1884), un événement qui le poussa finalement à s’installer à Londres.",
+        "titleSection": "Le Scandale",
+        "subtitle": "Portrait de Madame X",
+        "paragraphFour": "Parmi les œuvres les plus célèbres de Sargent, le *Portrait de Madame X* (1884) est une représentation audacieuse et non conventionnelle de Virginie Amélie Avegno Gautreau, une beauté parisienne bien connue. Contrairement à la plupart de ses commandes, ce tableau était une initiative personnelle — Sargent avait activement cherché Gautreau comme sujet, convaincu que son apparence saisissante ferait un chef-d’œuvre.",
+        "paragraphFive": "Le tableau prit plus d’un an à réaliser, et sa version originale présentait une bretelle tombant de l’épaule, accentuant son caractère sensuel. Lorsqu’il fut exposé au Salon de Paris en 1884, la réaction fut massivement négative. Le portrait fut jugé scandaleux, non seulement en raison de la pose suggestive, mais aussi à cause de la peau d’un blanc poudré de Gautreau et de son attitude hautaine. Le tollé public nuisit à la réputation de Sargent et de Gautreau, contraignant l’artiste à repeindre la bretelle dans une position plus conventionnelle pour calmer les critiques.",
+        "paragraphSix": "À la suite du scandale de Madame X, Sargent s’installa à Londres en 1886, où il trouva un public plus réceptif parmi les mécènes britanniques. D’abord critiqué pour son style « à la française », il gagna rapidement en reconnaissance grâce à sa technique raffinée et à ses études de caractère perspicaces. Son *Œillets, lys, lys, rose* (1885–86) marqua un tournant dans sa carrière britannique, recevant des éloges et lui assurant une place au sein de la Royal Academy of Arts.",
+        "paragraphSeven": "Sargent continua à voyager abondamment, peignant des personnalités à travers l’Europe et les États-Unis. Il réalisa notamment des portraits d’Isabella Stewart Gardner, de Theodore Roosevelt et de Robert Louis Stevenson. En plus de ses portraits, il explora les techniques impressionnistes, notamment dans des œuvres influencées par son amitié avec Claude Monet.",
+        "paragraphEight": "En 1907, au sommet de sa carrière, Sargent se retira en grande partie des commandes de portraits pour se consacrer à la peinture de paysages et à de vastes projets de fresques murales. Son héritage demeure celui d’un maître du portrait ayant su capter l’élégance, la complexité et le dynamisme de son époque.",
+        "fig1": "fig. 1. le « scandaleux » Portrait de Madame X.",
+        "fig2": "fig. 2. le Portrait de Madame X dans l’atelier de Sargent."
+    },
+    "FamousWorks": {
+        "title": "Œuvres célèbres",
+        "paragraphOne": "On estime que Sargent a réalisé environ 900 peintures à l'huile, plus de 2 000 aquarelles et encore plus de croquis et d'études préliminaires.",
+        "oilPaintings": "Peintures à l'huile",
+        "details": "Détails",
+        "watercolors": "Aquarelles"
+    },
+    "Header": {
         "summary": "Résumé",
         "earlyLife": "Jeunesse",
         "career": "Carrière",
@@ -19,8 +57,7 @@
         "english": "English",
         "french": "Français"
     },
-
-    "Footer":{
+    "Footer": {
         "celebrate": "Célébrer les Artistes et les Arts",
         "description": "Ce projet a été créé dans le but de célébrer et de préserver l'héritage des plus grands artistes de l'histoire.",
         "discover": "Découvrir d'autres Artistes"
@@ -28,22 +65,20 @@
     "Works": {
         "Works": [
             {
-                "id": 1,
                 "title": "",
-                "date": "How many legs does a spider have?",
-                "dimensions": "How many legs does a spider have?",
-                "location": "How many legs does a spider have?"
-
-
+                "date": "",
+                "dimensions": "",
+                "location": "",
+                "src": "./public/sketch1.png"
             }
         ]
     },
     "Quiz": {
-        "description":"",
+        "description": "",
         "questions": [
             {
                 "id": 1,
-                "question": "Where was John Singer Sargent born?",
+                "question": "Où est né John Singer Sargent ?",
                 "options": [
                     {
                         "label": "A",
@@ -52,52 +87,50 @@
                     },
                     {
                         "label": "B",
-                        "text": "United States",
+                        "text": "États-Unis",
                         "isCorrect": false
                     },
                     {
                         "label": "C",
-                        "text": "England",
+                        "text": "Angleterre",
                         "isCorrect": false
                     },
                     {
                         "label": "D",
-                        "text": "Italy",
+                        "text": "Italie",
                         "isCorrect": true
                     }
                 ]
-
             },
             {
                 "id": 2,
-                "question": "What was Sargent's main painting technique?",
+                "question": "Quelle était la technique de peinture principale de Sargent ?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "Watercolor",
+                        "text": "Aquarelle",
                         "isCorrect": false
                     },
                     {
                         "label": "B",
-                        "text": "Oil on canvas",
+                        "text": "Huile sur toile",
                         "isCorrect": true
                     },
                     {
                         "label": "C",
-                        "text": "Mosaic",
+                        "text": "Mosaïque",
                         "isCorrect": false
                     },
                     {
                         "label": "D",
-                        "text": "Engraving",
+                        "text": "Gravure",
                         "isCorrect": false
                     }
                 ]
-
             },
             {
                 "id": 3,
-                "question": "Where was John Singer Sargent born?",
+                "question": "Quelle est l'œuvre la plus célèbre de John Singer Sargent ?",
                 "options": [
                     {
                         "label": "A",
@@ -106,34 +139,33 @@
                     },
                     {
                         "label": "B",
-                        "text": "Starry Night",
+                        "text": "La Nuit étoilée",
                         "isCorrect": false
                     },
                     {
                         "label": "C",
-                        "text": "The Kiss",
+                        "text": "Le Baiser",
                         "isCorrect": false
                     },
                     {
                         "label": "D",
-                        "text": "The Last Supper",
+                        "text": "La Cène",
                         "isCorrect": false
                     }
                 ]
-
             },
             {
                 "id": 4,
-                "question": "Sargent was mainly known for painting what type of subject?",
+                "question": "Pour quel type de sujet Sargent était-il principalement connu ?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "Still life",
+                        "text": "Nature morte",
                         "isCorrect": false
                     },
                     {
                         "label": "B",
-                        "text": "Landscapes",
+                        "text": "Paysages",
                         "isCorrect": false
                     },
                     {
@@ -143,68 +175,66 @@
                     },
                     {
                         "label": "D",
-                        "text": "Abstract paintings",
+                        "text": "Peintures abstraites",
                         "isCorrect": false
                     }
                 ]
-
-            }, {
+            },
+            {
                 "id": 5,
-                "question": "Why was the painting Madame X controversial when it was first exhibited?",
+                "question": "Pourquoi le tableau Madame X était-il controversé lors de sa première exposition ?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "It was too dark",
+                        "text": "Il était trop sombre",
                         "isCorrect": false
                     },
                     {
                         "label": "B",
-                        "text": "It depicted a woman wearing a dress considered daring for the time",
+                        "text": "Il représentait une femme portant une robe jugée audacieuse pour l’époque",
                         "isCorrect": true
                     },
                     {
                         "label": "C",
-                        "text": "It showed a distorted landscape",
+                        "text": "Il montrait un paysage déformé",
                         "isCorrect": false
                     },
                     {
                         "label": "D",
-                        "text": "It was poorly received by critics of the time",
+                        "text": "Il a été mal accueilli par les critiques de l’époque",
                         "isCorrect": false
                     }
                 ]
-
-            }
-            , {
+            },
+            {
                 "id": 6,
-                "question": "Sargent was fluent in several languages. Which of these was NOT part of his repertoire?",
+                "question": "Sargent parlait couramment plusieurs langues. Laquelle de celles-ci ne faisait PAS partie de son répertoire ?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "English",
+                        "text": "Anglais",
                         "isCorrect": false
                     },
                     {
                         "label": "B",
-                        "text": "French",
+                        "text": "Français",
                         "isCorrect": false
                     },
                     {
                         "label": "C",
-                        "text": "German",
+                        "text": "Allemand",
                         "isCorrect": false
                     },
                     {
                         "label": "D",
-                        "text": "Spanish",
+                        "text": "Espagnol",
                         "isCorrect": true
                     }
                 ]
-
             },
             {
                 "id": 7,
-                "question": "Which artist strongly influenced Sargent's style?",
+                "question": "Quel artiste a fortement influencé le style de Sargent ?",
                 "options": [
                     {
                         "label": "A",
@@ -218,7 +248,7 @@
                     },
                     {
                         "label": "C",
-                        "text": "Leonardo da Vinci",
+                        "text": "Léonard de Vinci",
                         "isCorrect": false
                     },
                     {
@@ -227,11 +257,10 @@
                         "isCorrect": false
                     }
                 ]
-
             },
             {
                 "id": 8,
-                "question": "Sargent moved away from portrait painting later in life to focus on what?",
+                "question": "Sargent s’est éloigné de la peinture de portraits plus tard dans sa vie pour se concentrer sur quoi ?",
                 "options": [
                     {
                         "label": "A",
@@ -240,77 +269,73 @@
                     },
                     {
                         "label": "B",
-                        "text": "Music",
+                        "text": "Musique",
                         "isCorrect": false
                     },
                     {
                         "label": "C",
-                        "text": "Writing",
+                        "text": "Écriture",
                         "isCorrect": false
                     },
                     {
                         "label": "D",
-                        "text": "Murals and watercolors",
+                        "text": "Fresques murales et aquarelles",
                         "isCorrect": true
                     }
                 ]
-
             },
             {
                 "id": 9,
-                "question": "What was Sargent's official nationality?",
+                "question": "Quelle était la nationalité officielle de Sargent ?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "French",
+                        "text": "Française",
                         "isCorrect": false
                     },
                     {
                         "label": "B",
-                        "text": "American",
+                        "text": "Américaine",
                         "isCorrect": true
                     },
                     {
                         "label": "C",
-                        "text": "British",
+                        "text": "Britannique",
                         "isCorrect": false
                     },
                     {
                         "label": "D",
-                        "text": "Italian",
+                        "text": "Italienne",
                         "isCorrect": false
                     }
                 ]
-
             },
             {
                 "id": 10,
-                "question": "Besides portraits, Sargent also created murals for which American institution?",
+                "question": "En plus des portraits, Sargent a également créé des fresques pour quelle institution américaine ?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "The U.S. Congress",
+                        "text": "Le Congrès des États-Unis",
                         "isCorrect": false
                     },
                     {
                         "label": "B",
-                        "text": "Louvre Museum",
+                        "text": "Le musée du Louvre",
                         "isCorrect": false
                     },
                     {
                         "label": "C",
-                        "text": "Boston Public Library",
+                        "text": "La bibliothèque publique de Boston",
                         "isCorrect": true
                     },
                     {
                         "label": "D",
-                        "text": "University of Oxford",
+                        "text": "L’Université d’Oxford",
                         "isCorrect": false
                     }
                 ]
-
             }
         ]
     }
-
 }

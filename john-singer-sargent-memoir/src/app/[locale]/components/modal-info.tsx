@@ -20,9 +20,9 @@ export const ModalInfo: React.FC<ModalInfoProps> = ({ word, image, description }
     >
       {word}
       {open && (
-        <div className="text-[var(--color-lightbrown)] absolute left-1/2 top-full z-50 mt-2 -translate-x-1/2 bg-white p-6 rounded max-w-md shadow-lg border border-gray-200 min-w-[300px]">
-          <h2 className="text-xl font-bold mb-2">{word}</h2>
-          <Image src={image} alt={word} width={400} height={250} className="mb-2" />
+        <div className="h-[31vh] text-[var(--color-lightbrown)] absolute left-1/2 bottom-full z-50 mt-2 -translate-x-1/2 bg-white p-6 max-w-sm shadow-lg border border-gray-200 min-w-[300px] rounded-xl">
+          <h2 className="font-bold mb-2 font-[Montserrat]">{word}</h2>
+          <Image src={image} alt={word} width={200} height={90} className="mb-2" />
           <p>{description}</p>
         </div>
       )}

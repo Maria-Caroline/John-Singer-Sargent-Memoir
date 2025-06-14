@@ -3,12 +3,20 @@ import Image from "next/image";
 import { useTranslations } from 'next-intl';
 import { useTheme } from 'next-themes'
 import earlyLifeBanner from '../../../../public/earlyLifeBanner.png'
+import { useState } from 'react';
 
 const EarlyLifePage: React.FC = () => {
     const { theme } = useTheme()
     const imgSrc = theme === 'dark' ? '/youngSargent-dark.png' : '/youngSargent-light.png';
 
     const t = useTranslations('EarlyLife');
+    const works = [
+        { src: '/sketch1.png', alt: 'Obra 1' },
+        { src: '/sketch2.png', alt: 'Obra 2' },
+        { src: '/sketch3.png', alt: 'Obra 3' },
+        // substitua pelos caminhos reais das suas imagens
+    ];
+    const [currentPhoto, setCurrentPhoto] = useState(0);
     return (
         <div>
             <div>
@@ -44,7 +52,7 @@ const EarlyLifePage: React.FC = () => {
                                 </p>
                             </div>
                         </div>
-                         <div className="relative flex flex-col items-center w-max duration-300 ease-in-out hover:scale-105">
+                        <div className="relative flex flex-col items-center w-max duration-300 ease-in-out hover:scale-105">
                             <h1 className="text-[var(--color-sephia)] font-bold text-4xl -rotate-90 -translate-y-15">1869</h1>
                             <div className="absolute top-1/2 -translate-y-1/2 h-7 w-7 rounded-full bg-[var(--color-sephia)] z-10"></div>
                             <div className="absolute left-16 -translate-y-20 text-left w-[140px]">
@@ -53,7 +61,7 @@ const EarlyLifePage: React.FC = () => {
                                 </p>
                             </div>
                         </div>
-                         <div className="relative flex flex-col items-center w-max duration-300 ease-in-out hover:scale-105">
+                        <div className="relative flex flex-col items-center w-max duration-300 ease-in-out hover:scale-105">
                             <h1 className="text-[var(--color-sephia)] font-bold text-4xl -rotate-90 translate-y-15">1873</h1>
                             <div className="absolute top-1/2 -translate-y-1/2 h-7 w-7 rounded-full bg-[var(--color-sephia)] z-10"></div>
                             <div className="absolute left-16 translate-y-9 text-left w-[140px]">
@@ -62,7 +70,7 @@ const EarlyLifePage: React.FC = () => {
                                 </p>
                             </div>
                         </div>
-                         <div className="relative flex flex-col items-center w-max duration-300 ease-in-out hover:scale-105">
+                        <div className="relative flex flex-col items-center w-max duration-300 ease-in-out hover:scale-105">
                             <h1 className="text-[var(--color-sephia)] font-bold text-4xl -rotate-90 -translate-y-15">1874</h1>
                             <div className="absolute top-1/2 -translate-y-1/2 h-7 w-7 rounded-full bg-[var(--color-sephia)] z-10"></div>
                             <div className="absolute left-16 -translate-y-20 text-left w-[140px]">
@@ -92,7 +100,7 @@ const EarlyLifePage: React.FC = () => {
                                 height={150}
                             />
                             <p className="text-center italic">
-                                fig 1. portrait of a younger Sargent
+                                  {t('fig1')}
                             </p>
                         </div>
                         <p className='text-xl text-justify'>
@@ -102,21 +110,58 @@ const EarlyLifePage: React.FC = () => {
                             {t('paragraphFour')}
                             <br />
                             <br />
-                             {t('paragraphFive')}
+                            {t('paragraphFive')}
                             <br />
                             <br />
                             {t('paragraphSix')}
                             <br />
                             <br />
-                             {t('paragraphSeven')}
+                            {t('paragraphSeven')}
                             <br />
                             <br />
                             {t('paragraphEight')}
                         </p>
                     </div>
                 </div>
+                <div className="relative w-full overflow-hidden mb-10">
+                    <div className="flex justify-center items-center gap-4 mb-4">
+                        <div className="flex items-center gap-2">
+                            <button
+                                onClick={() =>
+                                    setCurrentPhoto((prev) =>
+                                        prev === 0 ? works.length - 1 : prev - 1
+                                    )
+                                }
+                                className="px-2 py-1 hover:text-gray-300 rounded text-sm"
+                            >
+                                ◀
+                            </button>
+                            <Image
+                                src={works[currentPhoto].src}
+                                alt={t('fig2')}
+                                width={600}
+                                height={500}
+                  
+                                className="rounded shadow-md"
+                            />
+                            <button
+                                onClick={() =>
+                                    setCurrentPhoto((prev) =>
+                                        prev === works.length - 1 ? 0 : prev + 1
+                                    )
+                                }
+                                className="px-2 py-1 hover:text-gray-300 rounded text-sm"
+                            >
+                                ▶
+                            </button>
+                        </div>
+                    </div>
+                    <p className="text-center italic">
+                        {t('fig2')}
+                    </p>
+                </div>
             </div>
-        </div>
+        </div >
     );
 };
 

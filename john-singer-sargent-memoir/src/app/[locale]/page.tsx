@@ -18,9 +18,9 @@ export default function HomePage() {
         <section className="relative w-full">
           <Image src={homeBanner} alt="Banner" layout="responsive" width={16} height={9} />
           <div className="absolute inset-0 flex flex-col items-center justify-center text-white ">
-            <h1 className="text-center text-3xl font-[Montserrat]">"{t('quoteOne')}
-              <br />
-              {t('quoteTwo')}"
+            <h1 className="text-center text-3xl font-[Montserrat]">&quot;{t('quoteOne')}
+              <br/>
+              {t('quoteTwo')}&quot;
             </h1>
             <p className="text-center text-2xl mt-4 ">— John Singer Sargent</p>
           </div>

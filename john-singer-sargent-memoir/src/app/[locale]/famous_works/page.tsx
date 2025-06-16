@@ -3,13 +3,12 @@ import Image from "next/image";
 import { useTranslations } from 'next-intl';
 import { useTheme } from 'next-themes'
 import { useState } from 'react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { parseParagraph } from '../../utils/parseParagraph';
 import famousWorksBanner from '../../../../public/famousWorksBanner.png'
-import madameX from './../../../../public/madameX.png'
-import sargentsAtelier from './../../../../public/sargentsAtelier.png'
 
 const FamousoilPage: React.FC = () => {
-    const { theme } = useTheme()
+//    const { theme } = useTheme()
 
     const oil = [
         { src: '/CLLR.png', alt: 'Obra 1', title: 'Carnation, Lily, Lily, Rose', creation: 'Around 1885', dimensions: 'w1537 x h174 mm', provenance: 'Curated' },

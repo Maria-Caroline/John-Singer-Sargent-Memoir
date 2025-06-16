@@ -7,7 +7,7 @@ import { useState } from 'react';
 import { parseParagraph } from '../../utils/parseParagraph';
 import famousWorksBanner from '../../../../public/famousWorksBanner.png'
 
-const FamousoilPage: React.FC = () => {
+const FamousWorksPage: React.FC = () => {
 //    const { theme } = useTheme()
 
     const oil = [
@@ -127,4 +127,4 @@ const FamousoilPage: React.FC = () => {
     );
 };
 
-export default FamousoilPage;
+export default FamousWorksPage;

@@ -10,7 +10,7 @@ import sargentsAtelier from './../../../../public/sargentsAtelier.png'
 
 
 const CareerPage: React.FC = () => {
-    const { theme } = useTheme()
+ //   const { theme } = useTheme()
 
 
     const t = useTranslations('Career');

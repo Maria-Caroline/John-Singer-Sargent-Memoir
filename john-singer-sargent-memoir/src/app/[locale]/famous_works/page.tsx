@@ -1,6 +1,7 @@
 'use client'
 import Image from "next/image";
 import { useTranslations } from 'next-intl';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { useTheme } from 'next-themes'
 import { useState } from 'react';
 // eslint-disable-next-line @typescript-eslint/no-unused-vars

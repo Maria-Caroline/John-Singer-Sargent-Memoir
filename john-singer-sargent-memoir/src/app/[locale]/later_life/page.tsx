@@ -9,7 +9,7 @@ import madameX from './../../../../public/sargentGrave.png'
 import lastSargent from './../../../../public/lastSargent.png'
 
 const LaterLifePage: React.FC = () => {
-    const { theme } = useTheme()
+//    const { theme } = useTheme()
 
 
     const t = useTranslations('LaterLife');

@@ -1,51 +1,124 @@
 {
     "HomePage": {
-        "quoteOne": "On ne peut jamais faire assez de croquis.",
-        "quoteTwo": "Croquez tout et gardez votre curiosité vive.",
+        "quoteOne": "On ne peut jamais faire assez d'esquisses.",
+        "quoteTwo": "Dessinez tout et gardez votre curiosité fraîche.",
         "title": "Résumé",
-        "paragraphOne": "John Singer Sargent était un peintre portraitiste, un peintre paysagiste et un aquarelliste. Au cours de sa carrière, il a réalisé environ 900 peintures à l'huile et plus de 2 000 aquarelles, ainsi que de nombreux croquis et dessins au fusain.",
-        "paragraphTwo": "John Singer Sargent est né à Florence, en Italie, fils d'immigrants américains. Il a vécu en Europe pendant une grande partie de sa vie et est devenu l'un des plus grands portraitistes et muralistes de son époque. Grâce à la maîtrise technique et à l'ingéniosité de son œuvre, il a brillamment représenté ses sujets, mettant en valeur leur raffinement aristocratique et leur hauteur.",
-        "paragraphThree": "Découvrez l'élégance intemporelle des œuvres emblématiques de John Singer Sargent, des grands portraits aux aquarelles époustouflantes, et apprenez-en davantage sur la vie de l'artiste qui a redéfini l'art du portrait."
+        "paragraphOne": "John Singer Sargent était un peintre de [portraits], un peintre de [paysages] et un aquarelliste. Au cours de sa carrière, il a créé environ 900 [peintures à l'huile] et plus de 2 000 [aquarelles], ainsi que de nombreuses [esquisses] et dessins au [charbon].",
+        "paragraphTwo": "John Singer Sargent est né à Florence, en Italie, fils d'immigrants américains. Il a vécu en Europe pendant une grande partie de sa vie et est devenu l'un des plus grands portraitistes et muralistes de son époque. Avec la maîtrise technique et l'ingéniosité de son travail, il a brillamment dépeint ses sujets, soulignant leur raffinement aristocratique et leur hauteur.",
+        "paragraphThree": "Découvrez l'élégance intemporelle des œuvres iconiques de John Singer Sargent, des grands portraits aux aquarelles à couper le souffle, et apprenez-en plus sur la vie de l'artiste qui a redéfini l'art du portrait.",
+        "modals": {
+            "technique": {
+                "description": "La méthode et l'habileté du pinceau de Sargent."
+            },
+            "portraits": {
+                "description": "Une peinture, un dessin, une photographie ou une gravure d'une personne, en particulier celle ne représentant que le visage ou la tête et les épaules."
+            },
+            "paysages": {
+                "description": "Une peinture représentant une vue de paysage naturel comme des montagnes, des vallées, des arbres, des rivières et des forêts."
+            },
+            "peintures à l'huile": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            },
+            "aquarelles": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            },
+            "charbon": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            },
+            "esquisses": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            }
+        }
     },
     "EarlyLife": {
         "title": "Jeunesse",
-        "timelineOne": "La famille Sargent quitte les États-Unis pour commencer une vie d'expatriés en Europe.",
+        "timelineOne": "La famille Sargent quitte les États-Unis pour commencer sa vie d'expatriés en Europe.",
         "timelineTwo": "John Singer Sargent naît à Florence, en Italie.",
-        "timelineThree": "À 13 ans, il commence une formation artistique formelle avec des cours d'aquarelle dispensés par Carl Welsch.",
-        "timelineFour": "À 17 ans, son sens aigu de l'observation et son talent sont reconnus.",
-        "timelineFive": "Sargent réussit du premier coup l'examen d'entrée à l'École des Beaux-Arts.",
-        "paragraphOne": "John Singer Sargent est né en 1856 à Florence, en Italie, dans une famille qui valorisait l'art, la culture et un fort sentiment d'héritage. En retraçant sa lignée jusqu'à Epes Sargent — une figure militaire coloniale notable et autorité juridique — son passé familial annonçait déjà une vie imprégnée d'histoire et d'influences artistiques. Son père, FitzWilliam Sargent, né à Gloucester, Massachusetts, poursuivit une carrière en médecine comme ophtalmologue (notamment à l'hôpital Wills Eye à Philadelphie de 1844 à 1854), tout en possédant un talent pour l'illustration médicale. Sa mère, Mary Newbold Sargent (née Singer), était une peintre amateur accomplie dont la sensibilité fut approfondie par des tragédies familiales précoces, comme la perte de son premier enfant en bas âge.",
-        "paragraphTwo": "Dans un effort pour trouver du réconfort et un nouveau départ, la famille quitta les États-Unis et adopta un mode de vie nomade, s'installant principalement à Paris tout en voyageant fréquemment à travers les régions pittoresques de France, d'Allemagne, d'Italie et de Suisse. Cette exposition constante à des paysages et cultures variés eut une profonde influence sur le jeune John. Bien que son éducation formelle fût intermittente à cause de cette vie itinérante, ses parents s'assurèrent que son apprentissage fût enrichi par l'art et la nature.",
-        "paragraphThree": "FitzWilliam initia John aux bases de l'apprentissage, mais c'est la nature qui captiva son imagination. Son père nota très tôt que John était « un observateur attentif du monde naturel », une qualité qui se reflétera plus tard dans ses représentations magistrales de paysages et de scènes de la vie quotidienne. Sa mère pensait, quant à elle, que l'immersion dans le patrimoine culturel européen — ses musées, ses églises et ses monuments historiques — était essentielle à son développement. Armé de carnets de croquis offerts par Mary, John documentait avec enthousiasme le monde qui l'entourait, reproduisant des images de navires tirées de *The Illustrated London News* et dessinant méticuleusement les paysages rencontrés lors de leurs voyages.",
-        "paragraphFour": "À l'âge de treize ans, encouragé par les observations de sa mère sur son talent remarquable — « il dessine assez bien et a un œil exceptionnellement vif et précis » — John commence une formation formelle en prenant des cours d'aquarelle auprès de Carl Welsch, un peintre paysagiste allemand. Malgré l'irrégularité de son enseignement scolaire traditionnel, l'éducation de Sargent était loin d'être limitée ; il devint un jeune homme cultivé, parlant couramment l'anglais, le français, l'italien et l'allemand, et développa une appréciation durable pour les grands maîtres. Ses premières expériences affinèrent non seulement ses compétences artistiques, mais forgèrent aussi l'esprit indépendant, curieux et déterminé qui caractérisera plus tard sa brillante carrière de portraitiste.",
-        "paragraphFive": "À dix-sept ans, Sargent était décrit comme « volontaire, curieux, déterminé et fort » (comme sa mère), mais aussi timide, généreux et modeste (comme son père). Il connaissait bien de nombreux grands maîtres grâce à l'observation directe, comme il l'écrivit en 1874 : « J'ai appris à Venise à admirer énormément Tintoret et à le considérer peut-être comme le second, juste après Michel-Ange et Titien. »",
-        "paragraphSix": "Les premières années de la vie de Sargent furent marquées par la convergence du voyage, de l'exposition culturelle et de l'exploration artistique. Ces expériences formatrices posèrent les bases solides d'un avenir prometteur, où l'art et l'observation se rejoindraient pour créer des œuvres intemporelles, alors qu'il se lançait dans une carrière de peintre reconnue.",
-        "paragraphSeven": "Une tentative d'étudier à l'Académie de Florence échoua, car l'école était en cours de réorganisation à ce moment-là. De retour à Paris après son séjour à Florence, Sargent commence ses études artistiques auprès du jeune portraitiste français Carolus-Duran. Ce dernier, connu pour sa technique audacieuse et ses méthodes d'enseignement modernes, joua un rôle déterminant pour Sargent entre 1874 et 1878.",
-        "paragraphEight": "En 1874, Sargent réussit dès sa première tentative le difficile examen d'entrée à l'École des Beaux-Arts, la principale école d'art en France. Il suivit des cours de dessin, comprenant l'anatomie et la perspective, et obtint un prix d'argent. Il consacra aussi beaucoup de temps à l'auto-apprentissage, dessinant dans les musées et peignant dans un atelier qu'il partageait avec James Carroll Beckwith. Ce dernier devint à la fois un ami précieux et le principal lien de Sargent avec les artistes américains expatriés. Sargent suivit également quelques cours avec Léon Bonnat.",
-        "fig1": "fig. 1. portrait de Sargent jeune",
-        "fig2": "fig. 2. croquis de Sargent à quinze ans lors d'un voyage en Allemagne en 1871-72"
+        "timelineThree": "À 13 ans, il commence sa formation artistique formelle avec des cours d'aquarelle sous Carl Welsch.",
+        "timelineFour": "À 17 ans, son observation aiguë et son talent sont reconnus.",
+        "timelineFive": "Sargent réussit du premier coup son admission à l'École des Beaux-Arts",
+        "paragraphOne": "John Singer Sargent est né en 1856 à Florence, en Italie, dans une famille qui chérissait l'art, la culture et un fort sens du patrimoine. Retraçant sa lignée jusqu'à Epes Sargent—une figure militaire coloniale notable et une autorité juridique—son origine familiale laissait déjà présager une vie imprégnée d'histoire et d'influence artistique. Son père, FitzWilliam Sargent, né à Gloucester, Massachusetts, non seulement poursuivait une carrière en médecine comme ophtalmologiste (notamment au service de l'Hôpital Wills Eye à Philadelphie de 1844 à 1854) mais possédait également un talent pour l'illustration médicale. Sa mère, Mary Newbold Sargent (née Singer), était une peintre amateur accomplie dont la sensibilité fut approfondie par les tragédies familiales précoces, comme la perte de son premier enfant à un très jeune âge.",
+        "paragraphTwo": "Dans un effort pour trouver du réconfort et de nouveaux commencements, la famille quitta les États-Unis et embrassa un mode de vie nomade, s'installant finalement principalement à Paris tout en se déplaçant fréquemment à travers les régions pittoresques de France, d'Allemagne, d'Italie et de Suisse. Cette exposition constante à des paysages et cultures diverses eut une influence profonde sur le jeune John. Bien que son éducation formelle fût intermittente en raison de la vie itinérante de la famille, ses parents s'assurèrent que son apprentissage était enrichi par les arts et le monde naturel.",
+        "paragraphThree": "FitzWilliam initia John aux bases de l'apprentissage, mais c'est le grand air qui captiva son imagination. Son père nota tôt que John était « un observateur attentif du monde naturel », une qualité qui serait plus tard évidente dans ses représentations magistrales de paysages et de scènes quotidiennes. Pendant ce temps, sa mère croyait que l'immersion dans le riche patrimoine culturel de l'Europe—ses musées, églises et monuments historiques—était essentielle à sa croissance. Armé de [carnets de croquis] fournis par Mary, John documenta avec empressement le monde qui l'entourait, reproduisant des images de navires du The Illustrated London News et esquissant méticuleusement les vues panoramiques rencontrées lors de leurs voyages.",
+        "paragraphFour": "À l'âge de treize ans, encouragé par les observations de sa mère sur son talent remarquable—« dessine assez bien et a un œil exceptionnellement vif et précis »—John commença sa formation formelle, prenant des cours d'[aquarelle] avec Carl Welsch, un peintre paysagiste allemand. Malgré l'irrégularité de la scolarité traditionnelle, l'éducation de Sargent ne fut pas limitée ; il devint un jeune homme cultivé et érudit, parlant couramment l'anglais, le français, l'italien et l'allemand, et développa une appréciation durable des œuvres des grands maîtres. Ses premières expériences non seulement affinèrent ses compétences artistiques mais lui inculquèrent également l'esprit indépendant, curieux et déterminé qui définirait plus tard sa carrière illustre de portraitiste.",
+        "paragraphFive": "À dix-sept ans, Sargent était décrit comme 'volontaire, curieux, déterminé et fort' (d'après sa mère) mais timide, généreux et modeste (d'après son père). Il était bien familier avec de nombreux grands maîtres par observation directe, comme il l'écrivit en 1874 : 'J'ai appris à Venise à admirer immensément Tintoret et à le considérer peut-être second seulement à Michel-Ange et Titien.'",
+        "paragraphSix": "Les premières années de la vie de Sargent furent marquées par la convergence du voyage, de l'exposition culturelle et de l'exploration artistique. Ces expériences formatrices posèrent une base solide qui laissait présager la promesse d'un avenir où l'art et l'observation s'entrecroiseraient pour créer des œuvres intemporelles, alors qu'il s'engageait finalement sur le chemin célèbre de la peinture professionnelle.",
+        "paragraphSeven": "Une tentative d'étudier à l'Académie de Florence échoua, car l'école se réorganisait à l'époque. Après être retourné à Paris depuis Florence, Sargent commença ses études artistiques avec le jeune portraitiste français Carolus-Duran. Suivant une ascension météorique, l'artiste était reconnu pour sa technique audacieuse et ses méthodes d'enseignement modernes ; son influence serait cruciale pour Sargent pendant la période de 1874 à 1878.",
+        "paragraphEight": "En 1874, Sargent réussit du premier coup l'examen rigoureux requis pour obtenir l'admission à l'École des Beaux-Arts, la première école d'art de France. Il prit des cours de dessin, qui incluaient l'[anatomie] et la [perspective], et remporta un prix d'argent. Il passa également beaucoup de temps en auto-apprentissage, dessinant dans les musées et peignant dans un atelier qu'il partageait avec James Carroll Beckwith. Il devint à la fois un ami précieux et la principale connexion de Sargent avec les artistes américains à l'étranger. Sargent prit également quelques leçons de Léon Bonnat.",
+        "fig1": "fig 1. portrait d'un Sargent plus jeune",
+        "fig2": "fig 2. esquisses de Sargent à quinze ans lors d'un voyage en Allemagne en 1871-72",
+        "modals": {
+            "aquarelle": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            },
+            "perspective": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            },
+            "anatomie": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            },
+            "carnets de croquis": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            }
+        }
     },
     "Career": {
         "title": "Carrière",
-        "paragraphOne": "Au début des années 1880, Sargent s'est fait connaître grâce à ses portraits à la peinture à l'huile, exposés au Salon de Paris. Ses sujets étaient souvent des femmes de la haute société, telles que Madame Edouard Pailleron (1880) et Madame Ramón Subercaseaux (1881). Ces tableaux, caractérisés par leurs compositions en pied et leur coup de pinceau assuré, ont été salués par la critique et ont solidifié sa réputation.",
-        "paragraphTwo": "La capacité de Sargent à capturer la personnalité et l'individualité dans ses portraits était sans pareille. *Les Filles d'Edward Darley Boit* (1882) est l'une de ses œuvres les plus marquantes et mémorables, souvent comparée aux *Ménines* de Velázquez. Son *Dame à la rose* (1882), un portrait de Charlotte Burckhardt, fut un autre succès, démontrant son talent à représenter l'élégance et le caractère à la fois.",
-        "paragraphThree": "Malgré ses succès, la carrière de Sargent à Paris prit un tournant inattendu avec la controverse entourant le *Portrait de Madame X* (1884), un événement qui le poussa finalement à s'installer à Londres.",
+        "paragraphOne": "Au début des années 1880, Sargent gagna en notoriété grâce à ses portraits à la [peinture à l'huile], exposés au Salon de Paris. Ses sujets étaient souvent des femmes de l'élite de la société, comme Madame Edouard Pailleron (1880) et Madame Ramón Subercaseaux (1881). Ces peintures, caractérisées par leurs compositions en pied et leur pinceau confiant, reçurent l'acclamation critique et consolidèrent sa réputation.",
+        "paragraphTwo": "La capacité de Sargent à capturer la personnalité et l'individualité dans ses portraits était inégalée. Les Filles d'Edward Darley Boit (1882) est l'une de ses œuvres les plus obsédantes et mémorables, souvent comparée aux Ménines de Vélasquez. Sa Dame à la Rose (1882), un portrait de Charlotte Burckhardt, fut un autre succès, démontrant son habileté à dépeindre simultanément l'élégance et le caractère.",
+        "paragraphThree": "Malgré ses réussites, la carrière de Sargent à Paris prit un tournant inattendu avec la controverse entourant le Portrait de Madame X (1884), un événement qui l'amena finalement à déménager à Londres.",
         "titleSection": "Le Scandale",
         "subtitle": "Portrait de Madame X",
-        "paragraphFour": "Parmi les œuvres les plus célèbres de Sargent, le *Portrait de Madame X* (1884) est une représentation audacieuse et non conventionnelle de Virginie Amélie Avegno Gautreau, une beauté parisienne bien connue. Contrairement à la plupart de ses commandes, ce tableau était une initiative personnelle — Sargent avait activement cherché Gautreau comme sujet, convaincu que son apparence saisissante ferait un chef-d'œuvre.",
-        "paragraphFive": "Le tableau prit plus d'un an à réaliser, et sa version originale présentait une bretelle tombant de l'épaule, accentuant son caractère sensuel. Lorsqu'il fut exposé au Salon de Paris en 1884, la réaction fut massivement négative. Le portrait fut jugé scandaleux, non seulement en raison de la pose suggestive, mais aussi à cause de la peau d'un blanc poudré de Gautreau et de son attitude hautaine. Le tollé public nuisit à la réputation de Sargent et de Gautreau, contraignant l'artiste à repeindre la bretelle dans une position plus conventionnelle pour calmer les critiques.",
-        "paragraphSix": "À la suite du scandale de Madame X, Sargent s'installa à Londres en 1886, où il trouva un public plus réceptif parmi les mécènes britanniques. D'abord critiqué pour son style « à la française », il gagna rapidement en reconnaissance grâce à sa technique raffinée et à ses études de caractère perspicaces. Son *Œillets, lys, lys, rose* (1885-86) marqua un tournant dans sa carrière britannique, recevant des éloges et lui assurant une place au sein de la Royal Academy of Arts.",
-        "paragraphSeven": "Sargent continua à voyager abondamment, peignant des personnalités à travers l'Europe et les États-Unis. Il réalisa notamment des portraits d'Isabella Stewart Gardner, de Theodore Roosevelt et de Robert Louis Stevenson. En plus de ses portraits, il explora les techniques impressionnistes, notamment dans des œuvres influencées par son amitié avec Claude Monet.",
-        "paragraphEight": "En 1907, au sommet de sa carrière, Sargent se retira en grande partie des commandes de portraits pour se consacrer à la peinture de paysages et à de vastes projets de fresques murales. Son héritage demeure celui d'un maître du portrait ayant su capter l'élégance, la complexité et le dynamisme de son époque.",
-        "fig1": "fig. 1. le « scandaleux » Portrait de Madame X.",
-        "fig2": "fig. 2. le Portrait de Madame X dans l'atelier de Sargent."
+        "paragraphFour": "Parmi les œuvres les plus célèbres de Sargent, le Portrait de Madame X (1884) était une représentation audacieuse et non conventionnelle de Virginie Amélie Avegno Gautreau, une beauté parisienne bien connue. Contrairement à la plupart de ses commandes, cette peinture était une quête personnelle—Sargent rechercha activement Gautreau comme sujet, convaincu que son apparence frappante ferait un chef-d'œuvre.",
+        "paragraphFive": "La peinture prit plus d'un an à terminer, et sa version originale présentait une bretelle provocante tombant de l'épaule qui rehaussait sa sensualité. Lorsqu'elle fut exposée au Salon de Paris en 1884, la réaction fut massivement négative. Le portrait fut jugé scandaleux, non seulement à cause de la pose suggestive mais aussi en raison de la peau blanche poudrée stark de Gautreau et de son attitude hautaine. Le tollé public endommagea les réputations de Sargent et de Gautreau, le forçant à repeindre la bretelle dans sa position conventionnelle dans une tentative d'apaiser la réaction.",
+        "paragraphSix": "Suite au scandale de Madame X, Sargent déménagea à Londres en 1886, où il trouva un public accueillant parmi les mécènes britanniques. Initialement critiqué pour son style 'francisé', il gagna bientôt la reconnaissance pour sa technique sophistiquée et ses études de caractère perspicaces. Son Œillet, Lys, Lys, Rose (1885-86) fut un tournant dans sa carrière britannique, recevant de hautes louanges et sécurisant sa position au sein de la Royal Academy of Arts.",
+        "paragraphSeven": "Sargent continua à voyager extensivement, peignant des célébrités à travers l'Europe et l'Amérique. Il produisit des portraits notables d'Isabella Stewart Gardner, Theodore Roosevelt et Robert Louis Stevenson, entre autres. En plus de son art du portrait, il explora les techniques [impressionnistes], particulièrement dans les œuvres influencées par son amitié avec Claude Monet.",
+        "paragraphEight": "En 1907, au sommet de sa carrière, Sargent se retira largement des commandes de portraits, tournant son attention vers la peinture de [paysage] et les projets muraux à grande échelle. Son héritage demeure celui d'un maître portraitiste qui captura l'élégance, la complexité et le dynamisme de son époque.",
+        "fig1": "fig 1. le 'scandaleux' Portrait de Madame X.",
+        "fig2": "fig 2. le Portrait de Madame X dans l'atelier de Sargent.",
+        "modals": {
+            "impressionnistes": {
+                "description": "La méthode et l'habileté du pinceau de Sargent."
+            },
+            "paysage": {
+                "description": "Une peinture représentant une vue de paysage naturel comme des montagnes, des vallées, des arbres, des rivières et des forêts."
+            },
+            "peinture à l'huile": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            }
+        }
     },
     "FamousWorks": {
-        "title": "Œuvres célèbres",
-        "paragraphOne": "On estime que Sargent a réalisé environ 900 peintures à l'huile, plus de 2 000 aquarelles et encore plus de croquis et d'études préliminaires.",
-        "oilPaintings": "Peintures à l'huile",
-        "details": "Détails",
-        "watercolors": "Aquarelles"
+        "title": "Œuvres Célèbres",
+        "paragraphOne": "On estime que Sargent a produit environ 900 peintures à l'huile, plus de 2 000 aquarelles et encore plus d'esquisses et d'études préliminaires.",
+        "titleOne": "Peintures à l'Huile",
+        "titleTwo": "Détails",
+        "titleThree": "Aquarelles",
+        "creation": "Date de création :",
+        "dimensions": "Dimensions physiques :",
+        "provenance": "Provenance :"
+    },
+    "LaterLife": {
+        "title": "Dernières Années",
+        "paragraphOne": "Dans les dernières années de sa carrière illustre, John Singer Sargent, renommé pour ses [portraits], déplaça son attention vers des projets muraux à grande échelle et des entreprises collaboratives qui enrichirent significativement la communauté artistique.",
+        "paragraphTwo": "En 1922, Sargent co-fonda les Grand Central Art Galleries de New York aux côtés des artistes Edmund Greacen, Walter Leighton Clark et d'autres. Ce collectif visait à fournir une plateforme proéminente aux artistes américains pour exposer et promouvoir leur travail. Sargent participa activement aux galeries et à leur institution associée, la Grand Central School of Art, démontrant son engagement à nourrir les talents émergents et à favoriser l'éducation artistique. En 1924, les Galeries l'honorèrent d'une exposition rétrospective majeure, montrant l'étendue de ses réalisations artistiques.",
+        "paragraphThree": "Au-delà de son implication avec les Galeries, Sargent consacra une grande partie de ses dernières années aux commandes murales. Il entreprit des projets significatifs pour des institutions estimées de Boston, incluant le Musée des Beaux-Arts, la Bibliothèque Publique de Boston et la Bibliothèque Widener de l'Université Harvard. Ces œuvres soulignèrent sa polyvalence et sa compréhension profonde des thèmes classiques et romantiques.",
+        "paragraphFour": "Malgré son attention sur les murales, Sargent continua à produire des [aquarelles] pendant ses voyages, capturant des [paysages] et des scènes de ses voyages. Ces œuvres démontrèrent davantage sa maîtrise à travers différents médiums et sujets.",
+        "paragraphFive": "Sargent resta célibataire toute sa vie et décéda dans son sommeil le 14 avril 1925, à son domicile de Chelsea, Londres, à l'âge de 69 ans. Sa mort marqua la fin d'une époque, mais son héritage perdura à travers de nombreuses expositions commémoratives tenues en son honneur. Notamment, le Musée des Beaux-Arts de Boston organisa une rétrospective complète du 3 novembre au 27 décembre 1925, coïncidant avec le dévoilement des décorations murales de Sargent au-dessus de l'escalier principal et de la bibliothèque du musée. Des expositions subséquentes eurent lieu au Metropolitan Museum of Art de New York et à la Royal Academy et Tate Gallery de Londres en 1926, célébrant ses contributions au monde de l'art.",
+        "paragraphSix": "Les dernières années de Sargent exemplifièrent son dévouement inébranlable à l'art, non seulement à travers ses propres créations mais aussi en favorisant les communautés artistiques et en mentorant la prochaine génération d'artistes.",
+        "fig1": "fig 1. Tombe de Sargent au Cimetière de Brookwood.",
+        "fig2": "fig 2. En mémoire de John Singer Sargent",
+        "modals": {
+            "portraits": {
+                "description": "Une peinture, un dessin, une photographie ou une gravure d'une personne, en particulier celle ne représentant que le visage ou la tête et les épaules."
+            },
+            "paysages": {
+                "description": "Une peinture représentant une vue de paysage naturel comme des montagnes, des vallées, des arbres, des rivières et des forêts."
+            },
+            "aquarelles": {
+                "description": "Un artiste très habile dans l'art du portrait."
+            }
+        }
     },
     "Header": {
         "summary": "Résumé",
@@ -54,31 +127,25 @@
         "famousWorks": "Œuvres Célèbres",
         "laterLife": "Dernières Années",
         "quiz": "Quiz",
-        "english": "English",
+        "english": "Anglais",
         "french": "Français"
     },
     "Footer": {
         "celebrate": "Célébrer les Artistes et les Arts",
         "description": "Ce projet a été créé dans le but de célébrer et de préserver l'héritage des plus grands artistes de l'histoire.",
-        "discover": "Découvrir d'autres Artistes"
+        "discover": "Découvrir d'Autres Artistes"
     },
     "Works": {
-        "Works": [
-            {
-                "title": "",
-                "date": "",
-                "dimensions": "",
-                "location": "",
-                "src": "./public/sketch1.png"
-            }
-        ]
+        "title": "Œuvres Célèbres",
+        "description": "Les œuvres de John Singer Sargent sont renommées pour leur maîtrise technique et leur capacité à capturer l'essence de ses sujets. Ses portraits, paysages et aquarelles reflètent une compréhension profonde de la lumière, de la couleur et de la forme. Explorez quelques-unes de ses pièces les plus célébrées ci-dessous."
     },
     "Quiz": {
-        "description": "",
+        "title": "Quiz",
+        "description": "Testez vos connaissances sur John Singer Sargent avec ce quiz. Chaque question a une réponse correcte. Bonne chance !",
         "questions": [
             {
                 "id": 1,
-                "question": "Où est né John Singer Sargent ?",
+                "question": "Où John Singer Sargent est-il né ?",
                 "options": [
                     {
                         "label": "A",
@@ -104,7 +171,7 @@
             },
             {
                 "id": 2,
-                "question": "Quelle était la technique de peinture principale de Sargent ?",
+                "question": "Quelle était la principale technique de peinture de Sargent ?",
                 "options": [
                     {
                         "label": "A",
@@ -130,7 +197,7 @@
             },
             {
                 "id": 3,
-                "question": "Quelle est l'œuvre la plus célèbre de John Singer Sargent ?",
+                "question": "Quelle est l'œuvre la plus controversée de Sargent ?",
                 "options": [
                     {
                         "label": "A",
@@ -139,7 +206,7 @@
                     },
                     {
                         "label": "B",
-                        "text": "La Nuit étoilée",
+                        "text": "Nuit Étoilée",
                         "isCorrect": false
                     },
                     {
@@ -156,7 +223,7 @@
             },
             {
                 "id": 4,
-                "question": "Pour quel type de sujet Sargent était-il principalement connu ?",
+                "question": "Sargent était principalement connu pour peindre quel type de sujet ?",
                 "options": [
                     {
                         "label": "A",
@@ -182,26 +249,26 @@
             },
             {
                 "id": 5,
-                "question": "Pourquoi le tableau Madame X était-il controversé lors de sa première exposition ?",
+                "question": "Pourquoi la peinture Madame X était-elle controversée lors de sa première exposition ?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "Il était trop sombre",
+                        "text": "Elle était trop sombre",
                         "isCorrect": false
                     },
                     {
                         "label": "B",
-                        "text": "Il représentait une femme portant une robe jugée audacieuse pour l'époque",
+                        "text": "Elle représentait une femme portant une robe considérée comme audacieuse pour l'époque",
                         "isCorrect": true
                     },
                     {
                         "label": "C",
-                        "text": "Il montrait un paysage déformé",
+                        "text": "Elle montrait un paysage déformé",
                         "isCorrect": false
                     },
                     {
                         "label": "D",
-                        "text": "Il a été mal accueilli par les critiques de l'époque",
+                        "text": "Elle fut mal reçue par les critiques de l'époque",
                         "isCorrect": false
                     }
                 ]
@@ -238,7 +305,7 @@
                 "options": [
                     {
                         "label": "A",
-                        "text": "Diego Velázquez",
+                        "text": "Diego Vélasquez",
                         "isCorrect": true
                     },
                     {
@@ -248,7 +315,7 @@
                     },
                     {
                         "label": "C",
-                        "text": "Léonard de Vinci",
+                        "text": "Leonardo da Vinci",
                         "isCorrect": false
                     },
                     {
@@ -260,7 +327,7 @@
             },
             {
                 "id": 8,
-                "question": "Sargent s'est éloigné de la peinture de portraits plus tard dans sa vie pour se concentrer sur quoi ?",
+                "question": "Sargent s'est éloigné de la peinture de portrait plus tard dans sa vie pour se concentrer sur quoi ?",
                 "options": [
                     {
                         "label": "A",
@@ -279,7 +346,7 @@
                     },
                     {
                         "label": "D",
-                        "text": "Fresques murales et aquarelles",
+                        "text": "Murales et aquarelles",
                         "isCorrect": true
                     }
                 ]
@@ -312,30 +379,50 @@
             },
             {
                 "id": 10,
-                "question": "En plus des portraits, Sargent a également créé des fresques pour quelle institution américaine ?",
+                "question": "Outre les portraits, Sargent a également créé des murales pour quelle institution américaine ?",
                 "options": [
                     {
                         "label": "A",
-                        "text": "Le Congrès des États-Unis",
+                        "text": "Le Congrès américain",
                         "isCorrect": false
                     },
                     {
                         "label": "B",
-                        "text": "Le musée du Louvre",
+                        "text": "Musée du Louvre",
                         "isCorrect": false
                     },
                     {
                         "label": "C",
-                        "text": "La bibliothèque publique de Boston",
+                        "text": "Bibliothèque Publique de Boston",
                         "isCorrect": true
                     },
                     {
                         "label": "D",
-                        "text": "L'Université d'Oxford",
+                        "text": "Université d'Oxford",
                         "isCorrect": false
                     }
                 ]
             }
         ]
+    },
+    "modal": {
+        "technique": {
+            "description": "La méthode et l'habileté du pinceau de Sargent."
+        },
+        "portrait": {
+            "description": "Une peinture, un dessin, une photographie ou une gravure d'une personne, en particulier celle ne représentant que le visage ou la tête et les épaules."
+        },
+        "landscape": {
+            "description": "Une peinture représentant une vue de paysage naturel comme des montagnes, des vallées, des arbres, des rivières et des forêts."
+        },
+        "oil": {
+            "description": "Un artiste très habile dans l'art du portrait."
+        },
+        "watercolors": {
+            "description": "Un artiste très habile dans l'art du portrait."
+        },
+        "charcoal": {
+            "description": "Un artiste très habile dans l'art du portrait."
+        }
     }
 }

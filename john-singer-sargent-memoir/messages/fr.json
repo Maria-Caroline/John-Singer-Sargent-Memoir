@@ -3,30 +3,30 @@
         "quoteOne": "On ne peut jamais faire assez d'esquisses.",
         "quoteTwo": "Dessinez tout et gardez votre curiosité fraîche.",
         "title": "Résumé",
-        "paragraphOne": "John Singer Sargent était un peintre de [portraits], un peintre de [paysages] et un aquarelliste. Au cours de sa carrière, il a créé environ 900 [peintures à l'huile] et plus de 2 000 [aquarelles], ainsi que de nombreuses [esquisses] et dessins au [charbon].",
+        "paragraphOne": "John Singer Sargent était un peintre de [portrait], un peintre de [paysages] et un aquarelliste. Au cours de sa carrière, il a créé environ 900 l'[huile] et plus de 2 000 [aquarelles], ainsi que de nombreuses [esquisses] et dessins au [charbon].",
         "paragraphTwo": "John Singer Sargent est né à Florence, en Italie, fils d'immigrants américains. Il a vécu en Europe pendant une grande partie de sa vie et est devenu l'un des plus grands portraitistes et muralistes de son époque. Avec la maîtrise technique et l'ingéniosité de son travail, il a brillamment dépeint ses sujets, soulignant leur raffinement aristocratique et leur hauteur.",
         "paragraphThree": "Découvrez l'élégance intemporelle des œuvres iconiques de John Singer Sargent, des grands portraits aux aquarelles à couper le souffle, et apprenez-en plus sur la vie de l'artiste qui a redéfini l'art du portrait.",
         "modals": {
             "technique": {
-                "description": "La méthode et l'habileté du pinceau de Sargent."
+                "description": "Le style et la maîtrise dans l'application du pinceau."
             },
-            "portraits": {
+            "portrait": {
                 "description": "Une peinture, un dessin, une photographie ou une gravure d'une personne, en particulier celle ne représentant que le visage ou la tête et les épaules."
             },
             "paysages": {
-                "description": "Une peinture représentant une vue de paysage naturel comme des montagnes, des vallées, des arbres, des rivières et des forêts."
+                "description": "Œuvre représentant un paysage naturel, comme des montagnes ou forêts."
             },
-            "peintures à l'huile": {
-                "description": "Un artiste très habile dans l'art du portrait."
+            "huile": {
+                "description": "Peinture réalisée avec des couleurs à l'huile."
             },
             "aquarelles": {
-                "description": "Un artiste très habile dans l'art du portrait."
+                "description": "Peinture à base d'eau, aux couleurs translucides."
             },
             "charbon": {
-                "description": "Un artiste très habile dans l'art du portrait."
+                "description": "Dessin réalisé au fusain, souvent en noir et blanc."
             },
             "esquisses": {
-                "description": "Un artiste très habile dans l'art du portrait."
+                "description": "Dessins rapides capturant des idées ou compositions."
             }
         }
     },
@@ -39,7 +39,7 @@
         "timelineFive": "Sargent réussit du premier coup son admission à l'École des Beaux-Arts",
         "paragraphOne": "John Singer Sargent est né en 1856 à Florence, en Italie, dans une famille qui chérissait l'art, la culture et un fort sens du patrimoine. Retraçant sa lignée jusqu'à Epes Sargent—une figure militaire coloniale notable et une autorité juridique—son origine familiale laissait déjà présager une vie imprégnée d'histoire et d'influence artistique. Son père, FitzWilliam Sargent, né à Gloucester, Massachusetts, non seulement poursuivait une carrière en médecine comme ophtalmologiste (notamment au service de l'Hôpital Wills Eye à Philadelphie de 1844 à 1854) mais possédait également un talent pour l'illustration médicale. Sa mère, Mary Newbold Sargent (née Singer), était une peintre amateur accomplie dont la sensibilité fut approfondie par les tragédies familiales précoces, comme la perte de son premier enfant à un très jeune âge.",
         "paragraphTwo": "Dans un effort pour trouver du réconfort et de nouveaux commencements, la famille quitta les États-Unis et embrassa un mode de vie nomade, s'installant finalement principalement à Paris tout en se déplaçant fréquemment à travers les régions pittoresques de France, d'Allemagne, d'Italie et de Suisse. Cette exposition constante à des paysages et cultures diverses eut une influence profonde sur le jeune John. Bien que son éducation formelle fût intermittente en raison de la vie itinérante de la famille, ses parents s'assurèrent que son apprentissage était enrichi par les arts et le monde naturel.",
-        "paragraphThree": "FitzWilliam initia John aux bases de l'apprentissage, mais c'est le grand air qui captiva son imagination. Son père nota tôt que John était « un observateur attentif du monde naturel », une qualité qui serait plus tard évidente dans ses représentations magistrales de paysages et de scènes quotidiennes. Pendant ce temps, sa mère croyait que l'immersion dans le riche patrimoine culturel de l'Europe—ses musées, églises et monuments historiques—était essentielle à sa croissance. Armé de [carnets de croquis] fournis par Mary, John documenta avec empressement le monde qui l'entourait, reproduisant des images de navires du The Illustrated London News et esquissant méticuleusement les vues panoramiques rencontrées lors de leurs voyages.",
+        "paragraphThree": "FitzWilliam initia John aux bases de l'apprentissage, mais c'est le grand air qui captiva son imagination. Son père nota tôt que John était « un observateur attentif du monde naturel », une qualité qui serait plus tard évidente dans ses représentations magistrales de paysages et de scènes quotidiennes. Pendant ce temps, sa mère croyait que l'immersion dans le riche patrimoine culturel de l'Europe—ses musées, églises et monuments historiques—était essentielle à sa croissance. Armé de [carnets] de croquis fournis par Mary, John documenta avec empressement le monde qui l'entourait, reproduisant des images de navires du The Illustrated London News et esquissant méticuleusement les vues panoramiques rencontrées lors de leurs voyages.",
         "paragraphFour": "À l'âge de treize ans, encouragé par les observations de sa mère sur son talent remarquable—« dessine assez bien et a un œil exceptionnellement vif et précis »—John commença sa formation formelle, prenant des cours d'[aquarelle] avec Carl Welsch, un peintre paysagiste allemand. Malgré l'irrégularité de la scolarité traditionnelle, l'éducation de Sargent ne fut pas limitée ; il devint un jeune homme cultivé et érudit, parlant couramment l'anglais, le français, l'italien et l'allemand, et développa une appréciation durable des œuvres des grands maîtres. Ses premières expériences non seulement affinèrent ses compétences artistiques mais lui inculquèrent également l'esprit indépendant, curieux et déterminé qui définirait plus tard sa carrière illustre de portraitiste.",
         "paragraphFive": "À dix-sept ans, Sargent était décrit comme 'volontaire, curieux, déterminé et fort' (d'après sa mère) mais timide, généreux et modeste (d'après son père). Il était bien familier avec de nombreux grands maîtres par observation directe, comme il l'écrivit en 1874 : 'J'ai appris à Venise à admirer immensément Tintoret et à le considérer peut-être second seulement à Michel-Ange et Titien.'",
         "paragraphSix": "Les premières années de la vie de Sargent furent marquées par la convergence du voyage, de l'exposition culturelle et de l'exploration artistique. Ces expériences formatrices posèrent une base solide qui laissait présager la promesse d'un avenir où l'art et l'observation s'entrecroiseraient pour créer des œuvres intemporelles, alors qu'il s'engageait finalement sur le chemin célèbre de la peinture professionnelle.",
@@ -49,22 +49,22 @@
         "fig2": "fig 2. esquisses de Sargent à quinze ans lors d'un voyage en Allemagne en 1871-72",
         "modals": {
             "aquarelle": {
-                "description": "Un artiste très habile dans l'art du portrait."
+                "description": "Peinture à base d'eau, aux couleurs translucides."
             },
             "perspective": {
-                "description": "Un artiste très habile dans l'art du portrait."
+                "description": "Technique donnant une impression de profondeur dans l'image."
             },
             "anatomie": {
-                "description": "Un artiste très habile dans l'art du portrait."
+               "description": "Étude des formes et proportions du corps humain."
             },
-            "carnets de croquis": {
-                "description": "Un artiste très habile dans l'art du portrait."
+            "carnets": {
+                "description": "Carnets contenant des dessins, études et notes de l'artiste."
             }
         }
     },
     "Career": {
         "title": "Carrière",
-        "paragraphOne": "Au début des années 1880, Sargent gagna en notoriété grâce à ses portraits à la [peinture à l'huile], exposés au Salon de Paris. Ses sujets étaient souvent des femmes de l'élite de la société, comme Madame Edouard Pailleron (1880) et Madame Ramón Subercaseaux (1881). Ces peintures, caractérisées par leurs compositions en pied et leur pinceau confiant, reçurent l'acclamation critique et consolidèrent sa réputation.",
+        "paragraphOne": "Au début des années 1880, Sargent gagna en notoriété grâce à ses portraits à la peinture à l'[huile], exposés au Salon de Paris. Ses sujets étaient souvent des femmes de l'élite de la société, comme Madame Edouard Pailleron (1880) et Madame Ramón Subercaseaux (1881). Ces peintures, caractérisées par leurs compositions en pied et leur pinceau confiant, reçurent l'acclamation critique et consolidèrent sa réputation.",
         "paragraphTwo": "La capacité de Sargent à capturer la personnalité et l'individualité dans ses portraits était inégalée. Les Filles d'Edward Darley Boit (1882) est l'une de ses œuvres les plus obsédantes et mémorables, souvent comparée aux Ménines de Vélasquez. Sa Dame à la Rose (1882), un portrait de Charlotte Burckhardt, fut un autre succès, démontrant son habileté à dépeindre simultanément l'élégance et le caractère.",
         "paragraphThree": "Malgré ses réussites, la carrière de Sargent à Paris prit un tournant inattendu avec la controverse entourant le Portrait de Madame X (1884), un événement qui l'amena finalement à déménager à Londres.",
         "titleSection": "Le Scandale",
@@ -78,12 +78,12 @@
         "fig2": "fig 2. le Portrait de Madame X dans l'atelier de Sargent.",
         "modals": {
             "impressionnistes": {
-                "description": "La méthode et l'habileté du pinceau de Sargent."
+                "description": "Style artistique mettant l'accent sur la lumière, la couleur et les touches libres."
             },
             "paysage": {
-                "description": "Une peinture représentant une vue de paysage naturel comme des montagnes, des vallées, des arbres, des rivières et des forêts."
+                "description": "Œuvre représentant un paysage naturel, comme des montagnes ou forêts."
             },
-            "peinture à l'huile": {
+            "huile": {
                 "description": "Un artiste très habile dans l'art du portrait."
             }
         }
@@ -113,10 +113,10 @@
                 "description": "Une peinture, un dessin, une photographie ou une gravure d'une personne, en particulier celle ne représentant que le visage ou la tête et les épaules."
             },
             "paysages": {
-                "description": "Une peinture représentant une vue de paysage naturel comme des montagnes, des vallées, des arbres, des rivières et des forêts."
+               "description": "Œuvre représentant un paysage naturel, comme des montagnes ou forêts."
             },
             "aquarelles": {
-                "description": "Un artiste très habile dans l'art du portrait."
+                "description": "Peinture à base d'eau, aux couleurs translucides."
             }
         }
     },
@@ -404,25 +404,5 @@
                 ]
             }
         ]
-    },
-    "modal": {
-        "technique": {
-            "description": "La méthode et l'habileté du pinceau de Sargent."
-        },
-        "portrait": {
-            "description": "Une peinture, un dessin, une photographie ou une gravure d'une personne, en particulier celle ne représentant que le visage ou la tête et les épaules."
-        },
-        "landscape": {
-            "description": "Une peinture représentant une vue de paysage naturel comme des montagnes, des vallées, des arbres, des rivières et des forêts."
-        },
-        "oil": {
-            "description": "Un artiste très habile dans l'art du portrait."
-        },
-        "watercolors": {
-            "description": "Un artiste très habile dans l'art du portrait."
-        },
-        "charcoal": {
-            "description": "Un artiste très habile dans l'art du portrait."
-        }
     }
 }

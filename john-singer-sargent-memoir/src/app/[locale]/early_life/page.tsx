@@ -4,6 +4,7 @@ import { useTranslations } from 'next-intl';
 import { useTheme } from 'next-themes'
 import earlyLifeBanner from '../../../../public/earlyLifeBanner.png'
 import { useState } from 'react';
+import { parseParagraph } from '../utils/parseParagraph';
 
 const EarlyLifePage: React.FC = () => {
     const { theme } = useTheme()
@@ -104,10 +105,10 @@ const EarlyLifePage: React.FC = () => {
                             </p>
                         </div>
                         <p className='text-xl text-justify'>
-                            {t('paragraphThree')}
+                            {parseParagraph(t('paragraphThree'), t)}
                             <br />
                             <br />
-                            {t('paragraphFour')}
+                            {parseParagraph(t('paragraphFour'), t)}
                             <br />
                             <br />
                             {t('paragraphFive')}
@@ -119,7 +120,7 @@ const EarlyLifePage: React.FC = () => {
                             {t('paragraphSeven')}
                             <br />
                             <br />
-                            {t('paragraphEight')}
+                            {parseParagraph(t('paragraphEight'), t)}
                         </p>
                     </div>
                 </div>

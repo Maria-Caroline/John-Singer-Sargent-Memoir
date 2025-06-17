@@ -8,25 +8,25 @@
         "paragraphThree": "Discover the timeless elegance of John Singer Sargent's iconic works, from grand portraits to breathtaking watercolors, and learn more about the life of the artist who redefined portraiture.",
         "modals": {
             "technique": {
-                "description": "The method and skill of Sargent's brushwork."
+                "description": "The style and skill used in applying the brush."
             },
             "portrait": {
-                "description": "A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders."
+                "description": "An artistic representation of a person, usually the face or bust."
             },
             "landscape": {
-                "description": "A painting representing a view of natural scenery such as mountains, valleys, trees, rivers, and forests."
+                "description": "A work depicting natural scenery such as mountains or forests."
             },
             "oil": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "A painting made with oil-based paints."
             },
             "watercolors": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "A painting using water-diluted, translucent paints."
             },
             "charcoal": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "A drawing made with black charcoal, often monochromatic."
             },
             "sketches": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "Quick drawings capturing ideas or compositions."
             }
         }
     },
@@ -49,16 +49,16 @@
         "fig2": "fig 2. sketches of Sargent at fifteen on a travel at Germany in 1871-72",
         "modals": {
             "watercolor": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "A painting using water-diluted, translucent paints."
             },
             "perspective": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "A technique that creates the illusion of depth in an image."
             },
             "anatomy": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "The study of human body shapes and proportions."
             },
             "sketchbooks": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "Books containing the artist's drawings, studies, and notes."
             }
         }
     },
@@ -78,13 +78,13 @@
         "fig2": "fig 2. the Portrait of Madame X in Sargent's studio.",
         "modals": {
             "Impressionist": {
-                "description": "The method and skill of Sargent's brushwork."
+                "description": "An art style emphasizing light, color, and loose brushwork."
             },
             "landscape": {
-                "description": "A painting representing a view of natural scenery such as mountains, valleys, trees, rivers, and forests."
+                "description": "A work depicting natural scenery such as mountains or forests."
             },
             "oil": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "A painting made with oil-based paints."
             }
         }
     },
@@ -110,13 +110,13 @@
         "fig2": "fig 2. In memory of John Singer Sargent",
         "modals": {
             "portraiture": {
-                "description": "A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders."
+                "description": "An artistic representation of a person, usually the face or bust."
             },
             "landscapes": {
-                "description": "A painting representing a view of natural scenery such as mountains, valleys, trees, rivers, and forests."
+                "description": "A work depicting natural scenery such as mountains or forests."
             },
             "watercolors": {
-                "description": "A highly skilled artist in portraiture."
+                "description": "A painting using water-diluted, translucent paints."
             }
         }
     },
@@ -404,25 +404,5 @@
                 ]
             }
         ]
-    },
-    "modal": {
-        "technique": {
-            "description": "The method and skill of Sargent's brushwork."
-        },
-        "portrait": {
-            "description": "A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders."
-        },
-        "landscape": {
-            "description": "A painting representing a view of natural scenery such as mountains, valleys, trees, rivers, and forests."
-        },
-        "oil": {
-            "description": "A highly skilled artist in portraiture."
-        },
-        "watercolors": {
-            "description": "A highly skilled artist in portraiture."
-        },
-        "charcoal": {
-            "description": "A highly skilled artist in portraiture."
-        }
     }
 }

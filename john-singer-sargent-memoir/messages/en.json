@@ -24,6 +24,9 @@
             },
             "charcoal": {
                 "description": "A highly skilled artist in portraiture."
+            },
+            "sketches": {
+                "description": "A highly skilled artist in portraiture."
             }
         }
     },
@@ -36,14 +39,28 @@
         "timelineFive": "Sargent passed on his first attempt to gain admission to the École des Beaux-Arts",
         "paragraphOne": "John Singer Sargent was born in 1856 in Florence, Italy, into a family that cherished art, culture, and a strong sense of heritage. Tracing his lineage back to Epes Sargent—a notable colonial military figure and legal authority—his family background already hinted at a life steeped in history and artistic influence. His father, FitzWilliam Sargent, born in Gloucester, Massachusetts, not only pursued a career in medicine as an ophthalmologist (notably serving at Wills Eye Hospital in Philadelphia from 1844 to 1854) but also possessed a talent for medical illustration. His mother, Mary Newbold Sargent (née Singer), was an accomplished amateur painter whose sensitivity was deepened by early family tragedies, such as the loss of her first child at a very young age.",
         "paragraphTwo": "In an effort to find solace and new beginnings, the family left the United States and embraced a nomadic lifestyle, eventually settling mainly in Paris while frequently moving through picturesque regions of France, Germany, Italy, and Switzerland. This constant exposure to diverse landscapes and cultures had a profound influence on young John. Although his formal education was intermittent due to the family's itinerant life, his parents ensured that his learning was enriched by the arts and the natural world.",
-        "paragraphThree": "FitzWilliam introduced John to the basics of learning, yet it was the great outdoors that captured his imagination. His father noted early on that John was “an attentive observer of the natural world,” a quality that would later be evident in his masterful depictions of landscapes and everyday scenes. Meanwhile, his mother believed that immersion in Europe's rich cultural heritage—its museums, churches, and historical monuments—was essential for his growth. Armed with sketchbooks provided by Mary, John eagerly documented the world around him, replicating images of ships from The Illustrated London News and meticulously sketching the scenic vistas encountered during their travels.",
-        "paragraphFour": "At the age of thirteen, encouraged by his mother's observations of his remarkable talent—“sketches quite well and has an exceptionally quick and accurate eye”—John began formal training, taking watercolor lessons from Carl Welsch, a German landscape painter. Despite the irregularity of traditional schooling, Sargent's education was anything but limited; he became a well-read and cultured young man, fluent in English, French, Italian, and German, and developed an enduring appreciation for the works of great masters. His early experiences not only honed his artistic skills but also instilled in him the independent, inquisitive, and determined spirit that would later define his illustrious career as a portraitist.",
+        "paragraphThree": "FitzWilliam introduced John to the basics of learning, yet it was the great outdoors that captured his imagination. His father noted early on that John was “an attentive observer of the natural world,” a quality that would later be evident in his masterful depictions of landscapes and everyday scenes. Meanwhile, his mother believed that immersion in Europe's rich cultural heritage—its museums, churches, and historical monuments—was essential for his growth. Armed with [sketchbooks] provided by Mary, John eagerly documented the world around him, replicating images of ships from The Illustrated London News and meticulously sketching the scenic vistas encountered during their travels.",
+        "paragraphFour": "At the age of thirteen, encouraged by his mother's observations of his remarkable talent—“sketches quite well and has an exceptionally quick and accurate eye”—John began formal training, taking [watercolor] lessons from Carl Welsch, a German landscape painter. Despite the irregularity of traditional schooling, Sargent's education was anything but limited; he became a well-read and cultured young man, fluent in English, French, Italian, and German, and developed an enduring appreciation for the works of great masters. His early experiences not only honed his artistic skills but also instilled in him the independent, inquisitive, and determined spirit that would later define his illustrious career as a portraitist.",
         "paragraphFive": "At seventeen, Sargent was described as 'willful, curious, determined and strong' (after his mother) yet shy, generous, and modest (after his father). He was well-acquainted with many of the great masters from first-hand observation, as he wrote in 1874: 'I have learned in Venice to admire Tintoretto immensely and to consider him perhaps second only to Michelangelo and Titian.'",
         "paragraphSix": "The early years of Sargent's life were marked by the convergence of travel, cultural exposure, and artistic exploration. These formative experiences laid a robust foundation that hinted at the promise of a future where art and observation would intersect to create timeless works, even as he eventually embarked on the celebrated path of professional painting.",
         "paragraphSeven": "An attempt to study at the Academy of Florence failed, as the school was reorganizing at the time. After returning to Paris from Florence, Sargent began his art studies with the young French portraitist Carolus-Duran. Following a meteoric rise, the artist was noted for his bold technique and modern teaching methods; his influence would be pivotal to Sargent during the period from 1874 to 1878.",
-        "paragraphEight": "In 1874, Sargent passed on his first attempt the rigorous exam required to gain admission to the École des Beaux-Arts, the premier art school in France. He took drawing classes, which included anatomy and perspective, and gained a silver prize. He also spent much time in self-study, drawing in museums and painting in a studio he shared with James Carroll Beckwith. He became both a valuable friend and Sargent's primary connection with the American artists abroad. Sargent also took some lessons from Léon Bonnat.",
+        "paragraphEight": "In 1874, Sargent passed on his first attempt the rigorous exam required to gain admission to the École des Beaux-Arts, the premier art school in France. He took drawing classes, which included [anatomy] and [perspective], and gained a silver prize. He also spent much time in self-study, drawing in museums and painting in a studio he shared with James Carroll Beckwith. He became both a valuable friend and Sargent's primary connection with the American artists abroad. Sargent also took some lessons from Léon Bonnat.",
         "fig1": "fig 1. portrait of a younger Sargent",
-        "fig2": "fig 2. sketches of Sargent at fifteen on a travel at Germany in 1871-72"
+        "fig2": "fig 2. sketches of Sargent at fifteen on a travel at Germany in 1871-72",
+        "modals": {
+            "watercolor": {
+                "description": "A highly skilled artist in portraiture."
+            },
+            "perspective": {
+                "description": "A highly skilled artist in portraiture."
+            },
+            "anatomy": {
+                "description": "A highly skilled artist in portraiture."
+            },
+            "sketchbooks": {
+                "description": "A highly skilled artist in portraiture."
+            }
+        }
     },
     "Career": {
         "title": "Career",
@@ -54,11 +71,22 @@
         "subtitle": "Portrait of Madame X",
         "paragraphFour": "Among Sargent's most famous works, Portrait of Madame X (1884) was a daring and unconventional portrayal of Virginie Amélie Avegno Gautreau, a well-known Parisian beauty. Unlike most of his commissions, this painting was a personal pursuit—Sargent actively sought out Gautreau as a subject, convinced that her striking appearance would make for a masterpiece.",
         "paragraphFive": "The painting took over a year to complete, and its original version featured a provocative off-the-shoulder strap that heightened its sensuality. When exhibited at the Paris Salon in 1884, the reaction was overwhelmingly negative. The portrait was deemed scandalous, not only because of the suggestive pose but also due to Gautreau's stark white-powdered skin and haughty demeanor. Public outcry damaged both Sargent's and Gautreau's reputations, forcing him to repaint the strap to its conventional position in an attempt to quell the backlash.",
-        "paragraphSix": "Following the Madame X scandal, Sargent moved to London in 1886, where he found a welcoming audience among British patrons. Initially criticized for his 'Frenchified' style, he soon gained recognition for his sophisticated technique and insightful character studies. His Carnation, Lily, Lily, Rose (1885–86) was a turning point in his British career, receiving high praise and securing his position within the Royal Academy of Arts.",
+        "paragraphSix": "Following the Madame X scandal, Sargent moved to London in 1886, where he found a welcoming audience among British patrons. Initially criticized for his 'Frenchified' style, he soon gained recognition for his sophisticated technique and insightful character studies. His Carnation, Lily, Lily, Rose (1885-86) was a turning point in his British career, receiving high praise and securing his position within the Royal Academy of Arts.",
         "paragraphSeven": "Sargent continued to travel extensively, painting luminaries across Europe and America. He produced notable portraits of Isabella Stewart Gardner, Theodore Roosevelt, and Robert Louis Stevenson, among others. In addition to his portraiture, he explored [Impressionist] techniques, particularly in works influenced by his friendship with Claude Monet.",
         "paragraphEight": "By 1907, at the height of his career, Sargent largely withdrew from portrait commissions, turning his attention to [landscape] painting and large-scale mural projects. His legacy remains that of a master portraitist who captured the elegance, complexity, and dynamism of his era.",
         "fig1": "fig 1. the “outrageous” Portrait of Madame X.",
-        "fig2": "fig 2. the Portrait of Madame X in Sargent's studio."
+        "fig2": "fig 2. the Portrait of Madame X in Sargent's studio.",
+        "modals": {
+            "Impressionist": {
+                "description": "The method and skill of Sargent's brushwork."
+            },
+            "landscape": {
+                "description": "A painting representing a view of natural scenery such as mountains, valleys, trees, rivers, and forests."
+            },
+            "oil": {
+                "description": "A highly skilled artist in portraiture."
+            }
+        }
     },
     "FamousWorks": {
         "title": "Famous Works",
@@ -79,7 +107,18 @@
         "paragraphFive": "Sargent remained unmarried throughout his life and passed away in his sleep on April 14, 1925, at his home in Chelsea, London, at the age of 69. His death marked the end of an era, but his legacy endured through numerous memorial exhibitions held in his honor. Notably, the Museum of Fine Arts in Boston organized a comprehensive retrospective from November 3 to December 27, 1925, coinciding with the unveiling of Sargent's mural decorations over the museum's main staircase and library. Subsequent exhibitions took place at the Metropolitan Museum of Art in New York and the Royal Academy and Tate Gallery in London in 1926, celebrating his contributions to the art world.",
         "paragraphSix": "Sargent's later years exemplified his unwavering dedication to art, not only through his own creations but also by fostering artistic communities and mentoring the next generation of artists.",
         "fig1": "fig 1. Sargent's grave at the Brookwood Cemetery.",
-        "fig2": "fig 2. In memory of John Singer Sargent"
+        "fig2": "fig 2. In memory of John Singer Sargent",
+        "modals": {
+            "portraiture": {
+                "description": "A painting, drawing, photograph, or engraving of a person, especially one depicting only the face or head and shoulders."
+            },
+            "landscapes": {
+                "description": "A painting representing a view of natural scenery such as mountains, valleys, trees, rivers, and forests."
+            },
+            "watercolors": {
+                "description": "A highly skilled artist in portraiture."
+            }
+        }
     },
     "Header": {
         "summary": "Summary",
@@ -98,30 +137,7 @@
     },
     "Works": {
         "title": "Famous Works",
-        "description": "John Singer Sargent's works are renowned for their technical mastery and ability to capture the essence of his subjects. His portraits, landscapes, and watercolors reflect a deep understanding of light, color, and form. Explore some of his most celebrated pieces below.",
-        "Works": [
-            {
-                "title": "",
-                "date": "",
-                "dimensions": "",
-                "location": "",
-                "src": "./public/sketch1.png"
-            },
-            {
-                "title": "",
-                "date": "",
-                "dimensions": "",
-                "location": "",
-                "src": "./public/sketch2.png"
-            },
-            {
-                "title": "",
-                "date": "",
-                "dimensions": "",
-                "location": "",
-                "src": "./public/sketch3.png"
-            }
-        ]
+        "description": "John Singer Sargent's works are renowned for their technical mastery and ability to capture the essence of his subjects. His portraits, landscapes, and watercolors reflect a deep understanding of light, color, and form. Explore some of his most celebrated pieces below."
     },
     "Quiz": {
         "title": "Quiz",

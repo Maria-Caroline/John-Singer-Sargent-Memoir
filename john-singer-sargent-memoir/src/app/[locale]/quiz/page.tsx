@@ -1,5 +1,5 @@
 'use client'
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { useTranslations } from 'next-intl';
 import Image from "next/image";
 import quizBanner from '../../../../public/quizBanner.png'
@@ -18,6 +18,7 @@ const QuizPage: React.FC = () => {
     const [currentQuestion, setCurrentQuestion] = useState(0);
     const [score, setScore] = useState(0);
     const [selectedAnswer, setSelectedAnswer] = useState('');
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const [showResult, setShowResult] = useState(false);
     const [quizCompleted, setQuizCompleted] = useState(false);
     const [userAnswers, setUserAnswers] = useState([]);
@@ -301,7 +302,7 @@ const QuizPage: React.FC = () => {
 
         let resultMessage = '';
         let titleMessage = '';
-        let certificateEarned = finalScore >= 2000;
+        const certificateEarned = finalScore >= 2000;
 
         if (correctAnswers >= 8) {
             titleMessage = t('quizWin')

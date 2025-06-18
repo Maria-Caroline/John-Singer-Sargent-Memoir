@@ -21,7 +21,10 @@ const QuizPage: React.FC = () => {
     // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const [showResult, setShowResult] = useState(false);
     const [quizCompleted, setQuizCompleted] = useState(false);
-    const [userAnswers, setUserAnswers] = useState([]);
+    const [userAnswers, setUserAnswers] = useState<
+        { questionId: number; selectedOption: string; isCorrect: boolean }[]
+    >([]);
+
 
     // Função para download do certificado
     const downloadCertificate = () => {
@@ -265,7 +268,7 @@ const QuizPage: React.FC = () => {
                 </button>
 
                 {/* Nota sobre certificado */}
-              <p className=' text-brown m-4 text-md text-center'> {t('note')}</p>
+                <p className=' text-brown m-4 text-md text-center'> {t('note')}</p>
             </div>
         );
     };
@@ -369,7 +372,7 @@ const QuizPage: React.FC = () => {
                         </button>
 
                     </div>
-                   <p className=' text-brown m-4 text-md text-center'> {t('note')}</p>
+                    <p className=' text-brown m-4 text-md text-center'> {t('note')}</p>
                 </div>
             </div>
         );

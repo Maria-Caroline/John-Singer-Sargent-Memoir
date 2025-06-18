@@ -5,8 +5,6 @@ import { useTheme } from 'next-themes'
 import { parseParagraph } from '../utils/parseParagraph';
 import homeBanner from '../../../public/home-banner.png'
 
-
-
 export default function HomePage() {
   const { theme } = useTheme()
   const imgSrc = theme === 'dark' ? '/sargent-sign-dark.png' : '/sargent-sign-light.png';

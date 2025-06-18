@@ -141,268 +141,110 @@
     },
     "Quiz": {
         "title": "Quiz",
-        "description": "Test your knowledge about John Singer Sargent with this quiz. Each question has one correct answer. Good luck!",
-        "questions": [
-            {
-                "id": 1,
-                "question": "Where was John Singer Sargent born?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "France",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "United States",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "England",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Italy",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "question": "What was Sargent's main painting technique?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Watercolor",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Oil on canvas",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "C",
-                        "text": "Mosaic",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Engraving",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "question": "Where was John Singer Sargent born?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Madame X",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "B",
-                        "text": "Starry Night",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "The Kiss",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "The Last Supper",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 4,
-                "question": "Sargent was mainly known for painting what type of subject?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Still life",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Landscapes",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Portraits",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "D",
-                        "text": "Abstract paintings",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 5,
-                "question": "Why was the painting Madame X controversial when it was first exhibited?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "It was too dark",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "It depicted a woman wearing a dress considered daring for the time",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "C",
-                        "text": "It showed a distorted landscape",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "It was poorly received by critics of the time",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 6,
-                "question": "Sargent was fluent in several languages. Which of these was NOT part of his repertoire?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "English",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "French",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "German",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Spanish",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 7,
-                "question": "Which artist strongly influenced Sargent's style?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Diego Velázquez",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "B",
-                        "text": "Claude Monet",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Leonardo da Vinci",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Vincent van Gogh",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 8,
-                "question": "Sargent moved away from portrait painting later in life to focus on what?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Sculpture",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Music",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Writing",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Murals and watercolors",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 9,
-                "question": "What was Sargent's official nationality?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "French",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "American",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "C",
-                        "text": "British",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Italian",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 10,
-                "question": "Besides portraits, Sargent also created murals for which American institution?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "The U.S. Congress",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Louvre Museum",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Boston Public Library",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "D",
-                        "text": "University of Oxford",
-                        "isCorrect": false
-                    }
-                ]
-            }
-        ]
+        "description": "What about testing your acknowledgement after this extensive journey? ",
+        "titleCard": "Are you a John Singer Sargent connoisseur?",
+        "subtitle": "Try Out Now!",
+        "descriptionCardOne": "Answer 10 questions about Sargent, his life and his works to earn points. Each question equals +50 points.",
+        "descriptionCardTwo": "But remember! Once you answered, you can't return to the previous question!",
+        "start": "Start!",
+        "note": "Get around 2000 points and receive a special certificate",
+        "continue": "Continue",
+        "quizFail": "Oh no!",
+        "quizFailDescripiton": "Unfortunately, it wasn't this time. But it's never too late to try again!",
+        "quizQin": "Congratulations!",
+        "quizWinDescripiton": "You're a amazing Sargent fan! ",
+        "of": "of",
+        "download": "Click here to download your special certificate!",
+        "tryAgain":"Try Again!",
+        "question1": "Where was John Singer Sargent born?",
+        "question1OptionA": "France",
+        "question1OptionB": "United States",
+        "question1OptionC": "England",
+        "question1OptionD": "Italy",
+        "question1CorrectA": "false",
+        "question1CorrectB": "false",
+        "question1CorrectC": "false",
+        "question1CorrectD": "true",
+        "question2": "What was Sargent's main painting technique?",
+        "question2OptionA": "Watercolor",
+        "question2OptionB": "Oil on canvas",
+        "question2OptionC": "Mosaic",
+        "question2OptionD": "Engraving",
+        "question2CorrectA": "false",
+        "question2CorrectB": "true",
+        "question2CorrectC": "false",
+        "question2CorrectD": "false",
+        "question3": "What is one of Sargent's most famous paintings?",
+        "question3OptionA": "Madame X",
+        "question3OptionB": "Starry Night",
+        "question3OptionC": "The Kiss",
+        "question3OptionD": "The Last Supper",
+        "question3CorrectA": "true",
+        "question3CorrectB": "false",
+        "question3CorrectC": "false",
+        "question3CorrectD": "false",
+        "question4": "Sargent was mainly known for painting what type of subject?",
+        "question4OptionA": "Still life",
+        "question4OptionB": "Landscapes",
+        "question4OptionC": "Portraits",
+        "question4OptionD": "Abstract paintings",
+        "question4CorrectA": "false",
+        "question4CorrectB": "false",
+        "question4CorrectC": "true",
+        "question4CorrectD": "false",
+        "question5": "Why was the painting Madame X controversial when it was first exhibited?",
+        "question5OptionA": "It was too dark",
+        "question5OptionB": "It depicted a woman wearing a dress considered daring for the time",
+        "question5OptionC": "It showed a distorted landscape",
+        "question5OptionD": "It was poorly received by critics of the time",
+        "question5CorrectA": "false",
+        "question5CorrectB": "true",
+        "question5CorrectC": "false",
+        "question5CorrectD": "false",
+        "question6": "Sargent was fluent in several languages. Which of these was NOT part of his repertoire?",
+        "question6OptionA": "English",
+        "question6OptionB": "French",
+        "question6OptionC": "German",
+        "question6OptionD": "Spanish",
+        "question6CorrectA": "false",
+        "question6CorrectB": "false",
+        "question6CorrectC": "false",
+        "question6CorrectD": "true",
+        "question7": "Which artist strongly influenced Sargent's style?",
+        "question7OptionA": "Diego Velázquez",
+        "question7OptionB": "Claude Monet",
+        "question7OptionC": "Leonardo da Vinci",
+        "question7OptionD": "Vincent van Gogh",
+        "question7CorrectA": "true",
+        "question7CorrectB": "false",
+        "question7CorrectC": "false",
+        "question7CorrectD": "false",
+        "question8": "Sargent moved away from portrait painting later in life to focus on what?",
+        "question8OptionA": "Sculpture",
+        "question8OptionB": "Music",
+        "question8OptionC": "Writing",
+        "question8OptionD": "Murals and watercolors",
+        "question8CorrectA": "false",
+        "question8CorrectB": "false",
+        "question8CorrectC": "false",
+        "question8CorrectD": "true",
+        "question9": "What was Sargent's official nationality?",
+        "question9OptionA": "French",
+        "question9OptionB": "American",
+        "question9OptionC": "British",
+        "question9OptionD": "Italian",
+        "question9CorrectA": "false",
+        "question9CorrectB": "true",
+        "question9CorrectC": "false",
+        "question9CorrectD": "false",
+        "question10": "Besides portraits, Sargent also created murals for which American institution?",
+        "question10OptionA": "The U.S. Congress",
+        "question10OptionB": "Louvre Museum",
+        "question10OptionC": "Boston Public Library",
+        "question10OptionD": "University of Oxford",
+        "question10CorrectA": "false",
+        "question10CorrectB": "false",
+        "question10CorrectC": "true",
+        "question10CorrectD": "false"
     }
 }

@@ -18,7 +18,8 @@
   --color-foreground: var(--foreground);
   --color-brown: #27130C;
   --color-sephia: #C5A785;
-  --color-lightbrown:#582D14;
+  --color-lightbrown: #582D14;
+  --color-lightsephia: #E4D5C6;
 }
 
 body {
@@ -28,5 +29,5 @@ body {
 }
 
 h1 {
-  font-family:  "Montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }

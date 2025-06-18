@@ -55,7 +55,7 @@
                 "description": "Technique donnant une impression de profondeur dans l'image."
             },
             "anatomie": {
-               "description": "Étude des formes et proportions du corps humain."
+                "description": "Étude des formes et proportions du corps humain."
             },
             "carnets": {
                 "description": "Carnets contenant des dessins, études et notes de l'artiste."
@@ -113,7 +113,7 @@
                 "description": "Une peinture, un dessin, une photographie ou une gravure d'une personne, en particulier celle ne représentant que le visage ou la tête et les épaules."
             },
             "paysages": {
-               "description": "Œuvre représentant un paysage naturel, comme des montagnes ou forêts."
+                "description": "Œuvre représentant un paysage naturel, comme des montagnes ou forêts."
             },
             "aquarelles": {
                 "description": "Peinture à base d'eau, aux couleurs translucides."
@@ -141,268 +141,110 @@
     },
     "Quiz": {
         "title": "Quiz",
-        "description": "Testez vos connaissances sur John Singer Sargent avec ce quiz. Chaque question a une réponse correcte. Bonne chance !",
-        "questions": [
-            {
-                "id": 1,
-                "question": "Où John Singer Sargent est-il né ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "France",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "États-Unis",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Angleterre",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Italie",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "question": "Quelle était la principale technique de peinture de Sargent ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Aquarelle",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Huile sur toile",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "C",
-                        "text": "Mosaïque",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Gravure",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 3,
-                "question": "Quelle est l'œuvre la plus controversée de Sargent ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Madame X",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "B",
-                        "text": "Nuit Étoilée",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Le Baiser",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "La Cène",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 4,
-                "question": "Sargent était principalement connu pour peindre quel type de sujet ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Nature morte",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Paysages",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Portraits",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "D",
-                        "text": "Peintures abstraites",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 5,
-                "question": "Pourquoi la peinture Madame X était-elle controversée lors de sa première exposition ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Elle était trop sombre",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Elle représentait une femme portant une robe considérée comme audacieuse pour l'époque",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "C",
-                        "text": "Elle montrait un paysage déformé",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Elle fut mal reçue par les critiques de l'époque",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 6,
-                "question": "Sargent parlait couramment plusieurs langues. Laquelle de celles-ci ne faisait PAS partie de son répertoire ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Anglais",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Français",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Allemand",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Espagnol",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 7,
-                "question": "Quel artiste a fortement influencé le style de Sargent ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Diego Vélasquez",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "B",
-                        "text": "Claude Monet",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Leonardo da Vinci",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Vincent van Gogh",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 8,
-                "question": "Sargent s'est éloigné de la peinture de portrait plus tard dans sa vie pour se concentrer sur quoi ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Sculpture",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Musique",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Écriture",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Murales et aquarelles",
-                        "isCorrect": true
-                    }
-                ]
-            },
-            {
-                "id": 9,
-                "question": "Quelle était la nationalité officielle de Sargent ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Française",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Américaine",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "C",
-                        "text": "Britannique",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "D",
-                        "text": "Italienne",
-                        "isCorrect": false
-                    }
-                ]
-            },
-            {
-                "id": 10,
-                "question": "Outre les portraits, Sargent a également créé des murales pour quelle institution américaine ?",
-                "options": [
-                    {
-                        "label": "A",
-                        "text": "Le Congrès américain",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "B",
-                        "text": "Musée du Louvre",
-                        "isCorrect": false
-                    },
-                    {
-                        "label": "C",
-                        "text": "Bibliothèque Publique de Boston",
-                        "isCorrect": true
-                    },
-                    {
-                        "label": "D",
-                        "text": "Université d'Oxford",
-                        "isCorrect": false
-                    }
-                ]
-            }
-        ]
+        "description": "Et si vous testiez vos connaissances après ce long voyage ?",
+        "titleCard": "Êtes-vous un connaisseur de John Singer Sargent ?",
+        "subtitle": "Essayez maintenant !",
+        "descriptionCardOne": "Répondez à 10 questions sur Sargent, sa vie et ses œuvres pour gagner des points. Chaque question vaut +50 points.",
+        "descriptionCardTwo": "Mais attention ! Une fois que vous avez répondu, vous ne pouvez plus revenir à la question précédente !",
+        "start": "Commencer !",
+        "note": "Obtenez environ 2000 points et recevez un certificat spécial",
+        "continue": "Continuer",
+        "quizFail": "Oh non !",
+        "quizFailDescripiton": "Malheureusement, ce n'était pas le cas cette fois-ci. Mais il n'est jamais trop tard pour réessayer !",
+        "quizWin": "Félicitations !",
+        "quizWinDescripiton": "Vous êtes un grand fan de Sargent ! ",
+        "of": "de",
+        "question1": "Où John Singer Sargent est-il né ?",
+        "download": "Cliquez ici pour télécharger votre certificat !",
+        "tryAgain":"Ressayer!",
+        "question1OptionA": "France",
+        "question1OptionB": "États-Unis",
+        "question1OptionC": "Angleterre",
+        "question1OptionD": "Italie",
+        "question1CorrectA": "false",
+        "question1CorrectB": "false",
+        "question1CorrectC": "false",
+        "question1CorrectD": "true",
+        "question2": "Quelle était la principale technique de peinture de Sargent ?",
+        "question2OptionA": "Aquarelle",
+        "question2OptionB": "Huile sur toile",
+        "question2OptionC": "Mosaïque",
+        "question2OptionD": "Gravure",
+        "question2CorrectA": "false",
+        "question2CorrectB": "true",
+        "question2CorrectC": "false",
+        "question2CorrectD": "false",
+        "question3": "Quelle est l'œuvre la plus controversée de Sargent ?",
+        "question3OptionA": "Madame X",
+        "question3OptionB": "Nuit Étoilée",
+        "question3OptionC": "Le Baiser",
+        "question3OptionD": "La Cène",
+        "question3CorrectA": "true",
+        "question3CorrectB": "false",
+        "question3CorrectC": "false",
+        "question3CorrectD": "false",
+        "question4": "Sargent était principalement connu pour peindre quel type de sujet ?",
+        "question4OptionA": "Nature morte",
+        "question4OptionB": "Paysages",
+        "question4OptionC": "Portraits",
+        "question4OptionD": "Peintures abstraites",
+        "question4CorrectA": "false",
+        "question4CorrectB": "false",
+        "question4CorrectC": "true",
+        "question4CorrectD": "false",
+        "question5": "Pourquoi la peinture Madame X était-elle controversée lors de sa première exposition ?",
+        "question5OptionA": "Elle était trop sombre",
+        "question5OptionB": "Elle représentait une femme portant une robe considérée comme audacieuse pour l'époque",
+        "question5OptionC": "Elle montrait un paysage déformé",
+        "question5OptionD": "Elle fut mal reçue par les critiques de l'époque",
+        "question5CorrectA": "false",
+        "question5CorrectB": "true",
+        "question5CorrectC": "false",
+        "question5CorrectD": "false",
+        "question6": "Sargent parlait couramment plusieurs langues. Laquelle de celles-ci ne faisait PAS partie de son répertoire ?",
+        "question6OptionA": "Anglais",
+        "question6OptionB": "Français",
+        "question6OptionC": "Allemand",
+        "question6OptionD": "Espagnol",
+        "question6CorrectA": "false",
+        "question6CorrectB": "false",
+        "question6CorrectC": "false",
+        "question6CorrectD": "true",
+        "question7": "Quel artiste a fortement influencé le style de Sargent ?",
+        "question7OptionA": "Diego Vélasquez",
+        "question7OptionB": "Claude Monet",
+        "question7OptionC": "Leonardo da Vinci",
+        "question7OptionD": "Vincent van Gogh",
+        "question7CorrectA": "true",
+        "question7CorrectB": "false",
+        "question7CorrectC": "false",
+        "question7CorrectD": "false",
+        "question8": "Sargent s'est éloigné de la peinture de portrait plus tard dans sa vie pour se concentrer sur quoi ?",
+        "question8OptionA": "Sculpture",
+        "question8OptionB": "Musique",
+        "question8OptionC": "Écriture",
+        "question8OptionD": "Murales et aquarelles",
+        "question8CorrectA": "false",
+        "question8CorrectB": "false",
+        "question8CorrectC": "false",
+        "question8CorrectD": "true",
+        "question9": "Quelle était la nationalité officielle de Sargent ?",
+        "question9OptionA": "Française",
+        "question9OptionB": "Américaine",
+        "question9OptionC": "Britannique",
+        "question9OptionD": "Italienne",
+        "question9CorrectA": "false",
+        "question9CorrectB": "true",
+        "question9CorrectC": "false",
+        "question9CorrectD": "false",
+        "question10": "Outre les portraits, Sargent a également créé des murales pour quelle institution américaine ?",
+        "question10OptionA": "Le Congrès américain",
+        "question10OptionB": "Musée du Louvre",
+        "question10OptionC": "Bibliothèque Publique de Boston",
+        "question10OptionD": "Université d'Oxford",
+        "question10CorrectA": "false",
+        "question10CorrectB": "false",
+        "question10CorrectC": "true",
+        "question10CorrectD": "false"
     }
 }

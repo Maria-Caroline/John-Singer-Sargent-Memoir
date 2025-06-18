@@ -3,88 +3,67 @@ import { ModalInfo, ModalInfoProps } from '../[locale]/components/modal-info';
 
 const infoWords: Record<string, Omit<ModalInfoProps, 'description'>> = {
     technique: {
-        word: 'technique',
-        image: '/modals/technique.png',
+        word: 'technique'
     },
     portrait: {
-        word: 'portrait',
-        image: '/modals/portrait.png',
+        word: 'portrait'
     },
     portraiture: {
-        word: 'portraiture',
-        image: '/modals/portrait.png',
+        word: 'portraiture'
     },
     landscape: {
-        word: 'landscape',
-        image: '/modals/landscape.png',
+        word: 'landscape'
     },
     paysages: {
-        word: 'paysages',
-        image: '/modals/landscape.png',
+        word: 'paysages'
     },
     oil: {
-        word: 'oil',
-        image: '/modals/oil.png',
+        word: 'oil'
     },
     huile: {
-        word: 'oil',
-        image: '/modals/oil.png',
+        word: 'oil'
     },
     watercolors: {
-        word: 'watercolors',
-        image: '/modals/wtc.png',
+        word: 'watercolors'
     },
     aquarelles: {
-        word: 'aquarelles',
-        image: '/modals/wtc.png',
+        word: 'aquarelles'
     },
     aquarelle: {
-        word: 'aquarelles',
-        image: '/modals/wtc.png',
+        word: 'aquarelles'
     },
     charcoal: {
-        word: 'charcoal',
-        image: '/modals/master.png',
+        word: 'charcoal'
     },
     charbon: {
-        word: 'charbon',
-        image: '/modals/master.png',
+        word: 'charbon'
     },
     Impressionist: {
-        word: 'Impressionist',
-        image: '/modals/master.png',
+        word: 'Impressionist'
     },
     esquisses: {
-        word: 'esquisses',
-        image: '/modals/skt.png',
+        word: 'esquisses'
     },
     sketches: {
-        word: 'sketches',
-        image: '/modals/skt.png',
+        word: 'sketches'
     },
     perspective: {
-        word: 'perspective',
-        image: '/modals/master.png',
+        word: 'perspective'
     },
     anatomie: {
-        word: 'anatomie',
-        image: '/modals/master.png',
+        word: 'anatomie'
     },
     anatomy: {
-        word: 'anatomy',
-        image: '/modals/skt.png',
+        word: 'anatomy'
     },
     carnets: {
-        word: 'carnets',
-        image: '/modals/skt.png',
+        word: 'carnets'
     },
     sketchbooks: {
-        word: 'carnets',
-        image: '/modals/skt.png',
+        word: 'carnets'
     },
     impressionnistes: {
-        word: 'carnets',
-        image: '/modals/skt.png',
+        word: 'carnets'
     },
 };
 
@@ -101,7 +80,6 @@ export function parseParagraph(text: string, t: (key: string) => string): React.
           <ModalInfo
             key={i}
             word={info.word}
-            image={info.image}
             description={t(`modals.${key}.description`)}
           />
         );

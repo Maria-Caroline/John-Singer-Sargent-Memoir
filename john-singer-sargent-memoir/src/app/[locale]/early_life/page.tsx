@@ -4,7 +4,7 @@ import { useTranslations } from 'next-intl';
 import { useTheme } from 'next-themes'
 import earlyLifeBanner from '../../../../public/earlyLifeBanner.png'
 import { useState } from 'react';
-import { parseParagraph } from '../utils/parseParagraph';
+import { parseParagraph } from '../../utils/parseParagraph';
 
 const EarlyLifePage: React.FC = () => {
     const { theme } = useTheme()
